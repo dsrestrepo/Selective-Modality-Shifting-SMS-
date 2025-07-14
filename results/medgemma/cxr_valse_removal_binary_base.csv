@@ -1,0 +1,1001 @@
+dicom_id,age,sex,race,question,foil_type,answer,ground_truth,prediction,original
+618bc75f-0af543e5-29d48c3e-dcb628dd-91b01e9f,71.0,Female,White,Is there evidence of pneumothorax?,Existence,No,No,no,True
+618bc75f-0af543e5-29d48c3e-dcb628dd-91b01e9f,71.0,Female,White,Is there evidence of pneumothorax?,Existence,No,No,no,False
+e1138c8e-33fb3bab-c3ad526f-62738991-327b2728,91.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+e1138c8e-33fb3bab-c3ad526f-62738991-327b2728,91.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+04ebbd28-b17730d5-29bf6658-5dcaf828-6bbda581,86.0,Female,White,Is there a pleural effusion?,Existence,No,No,no,True
+04ebbd28-b17730d5-29bf6658-5dcaf828-6bbda581,86.0,Female,White,Is there a pleural effusion?,Existence,No,No,no,False
+8985365e-f186c5cd-413feb10-ec6205ec-4948b9d6,81.0,Male,White,Is the metallic BB over the right lung base within or outside the patient?,Spatial relations,Yes,Yes,uncertain,True
+8985365e-f186c5cd-413feb10-ec6205ec-4948b9d6,81.0,Male,White,Is the metallic BB over the right lung base within or outside the patient?,Spatial relations,Yes,Yes,uncertain,False
+0191e592-4c0d38e1-20f321b4-7bad6664-192d0882,44.0,Female,White,Is the endotracheal tube tip 3.5 cm from the carina?,Spatial relations,Yes,Yes,yes,True
+0191e592-4c0d38e1-20f321b4-7bad6664-192d0882,44.0,Female,White,Is the endotracheal tube tip 3.5 cm from the carina?,Spatial relations,Yes,Yes,yes,False
+ca554921-75ee31e0-dba7d858-3ab34905-5da9ba80,53.0,Female,Black,Is the confluent airspace opacity in the superior segment of the right lower lobe?,Spatial relations,Yes,Yes,yes,True
+ca554921-75ee31e0-dba7d858-3ab34905-5da9ba80,53.0,Female,Black,Is the confluent airspace opacity in the superior segment of the right lower lobe?,Spatial relations,Yes,Yes,no,False
+f3b8ac97-0a51581d-d0804a6a-4057f1b0-1b8653f3,56.0,Male,White,Is there a definite pleural effusion?,Existence,No,No,no,True
+f3b8ac97-0a51581d-d0804a6a-4057f1b0-1b8653f3,56.0,Male,White,Is there a definite pleural effusion?,Existence,No,No,no,False
+4eea24a3-d8f724a6-23d16f0f-67fcb92c-55d0e3df,71.0,Female,White,Is the pneumothorax right-sided?,Spatial relations,Yes,Yes,yes,True
+4eea24a3-d8f724a6-23d16f0f-67fcb92c-55d0e3df,71.0,Female,White,Is the pneumothorax right-sided?,Spatial relations,Yes,Yes,yes,False
+cc8af9fa-cfcad040-984678f7-17b9aed8-fcf50170,83.0,Male,Black,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,True
+cc8af9fa-cfcad040-984678f7-17b9aed8-fcf50170,83.0,Male,Black,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,False
+cc2c5bcb-8c1dc14e-51fd8d79-2d52835a-10562a3e,68.0,Male,White,Is the catheter with balloon projecting over the left upper quadrant?,Spatial relations,Yes,Yes,yes,True
+cc2c5bcb-8c1dc14e-51fd8d79-2d52835a-10562a3e,68.0,Male,White,Is the catheter with balloon projecting over the left upper quadrant?,Spatial relations,Yes,Yes,yes,False
+b707a00d-d41e2b5d-53a59eb1-28bc5281-cccdb71e,82.0,Female,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+b707a00d-d41e2b5d-53a59eb1-28bc5281-cccdb71e,82.0,Female,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+581bb685-615f54cb-64eeb2c4-0fe64108-551dc54f,69.0,Male,White,Is the tip of the Port-A-Cath in the mid to distal SVC?,Spatial relations,Yes,Yes,yes,True
+581bb685-615f54cb-64eeb2c4-0fe64108-551dc54f,69.0,Male,White,Is the tip of the Port-A-Cath in the mid to distal SVC?,Spatial relations,Yes,Yes,yes,False
+13c6cc82-670e824e-a62fe2f3-5b8425aa-2f3b8cd5,46.0,Male,White,Is the airspace consolidation at the right lung base?,Spatial relations,Yes,Yes,yes,True
+13c6cc82-670e824e-a62fe2f3-5b8425aa-2f3b8cd5,46.0,Male,White,Is the airspace consolidation at the right lung base?,Spatial relations,Yes,Yes,yes,False
+1c798edb-5c84fb2c-a2067d4f-3de46cb7-0ba0bb50,91.0,Female,White,Is the cardiac silhouette enlarged at the mediastinal and hilar contours?,Spatial relations,Yes,Yes,yes,True
+1c798edb-5c84fb2c-a2067d4f-3de46cb7-0ba0bb50,91.0,Female,White,Is the cardiac silhouette enlarged at the mediastinal and hilar contours?,Spatial relations,Yes,Yes,yes,False
+0efdfba7-8babc418-33f4f256-8cb6c6e0-fdf5a268,53.0,Female,Black,"Is there a pleural effusion, pneumothorax or focal airspace consolidation?",Existence,No,No,no,True
+0efdfba7-8babc418-33f4f256-8cb6c6e0-fdf5a268,53.0,Female,Black,"Is there a pleural effusion, pneumothorax or focal airspace consolidation?",Existence,No,No,no,False
+6a4c9753-a3ad167b-875df367-dbdebd95-89fec84f,55.0,Female,White,"Is there a large effusion, consolidation, or edema?",Existence,No,No,no,True
+6a4c9753-a3ad167b-875df367-dbdebd95-89fec84f,55.0,Female,White,"Is there a large effusion, consolidation, or edema?",Existence,No,No,no,False
+f00097fa-e32a5456-255733fe-8743ed10-c902d9fd,60.0,Male,White,Is the increased opacity in the right lower lung similar to the earlier exam?,Spatial relations,Yes,Yes,yes,True
+f00097fa-e32a5456-255733fe-8743ed10-c902d9fd,60.0,Male,White,Is the increased opacity in the right lower lung similar to the earlier exam?,Spatial relations,Yes,Yes,yes,False
+db20450b-1a77ea0b-b8c268ad-ed2f72af-b182da0c,74.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+db20450b-1a77ea0b-b8c268ad-ed2f72af-b182da0c,74.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+8714a30d-ff77d620-e27e4467-68f3fb1b-0417c111,68.0,Male,Black,Is the heart normal in size?,Spatial relations,Yes,Yes,yes,True
+8714a30d-ff77d620-e27e4467-68f3fb1b-0417c111,68.0,Male,Black,Is the heart normal in size?,Spatial relations,Yes,Yes,yes,False
+25f780e6-90d68acb-5af27724-e4b85407-670f0438,66.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+25f780e6-90d68acb-5af27724-e4b85407-670f0438,66.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+d8296702-835e7530-6ef932be-2272bf71-604e1cfe,85.0,Female,White,Is there a pleural effusion?,Existence,No,No,no,True
+d8296702-835e7530-6ef932be-2272bf71-604e1cfe,85.0,Female,White,Is there a pleural effusion?,Existence,No,No,no,False
+32b7db45-607fb026-59b7c0c9-70b77706-cf046bec,56.0,Female,White,Is there an acute cardiopulmonary radiographic abnormality?,Existence,No,No,no,True
+32b7db45-607fb026-59b7c0c9-70b77706-cf046bec,56.0,Female,White,Is there an acute cardiopulmonary radiographic abnormality?,Existence,No,No,yes,False
+00ba0ff8-76fcb818-743b86d2-66db3385-1d02337b,72.0,Male,Black,Does the right IJ central catheter terminate at the junction of the SVC and brachiocephalic vein?,Spatial relations,Yes,Yes,yes,True
+00ba0ff8-76fcb818-743b86d2-66db3385-1d02337b,72.0,Male,Black,Does the right IJ central catheter terminate at the junction of the SVC and brachiocephalic vein?,Spatial relations,Yes,Yes,no,False
+5a4a5850-25667f4d-fcbb0717-1882b096-7f7e65da,62.0,Male,Black,Is the patient in the upright position during the chest radiographs?,Spatial relations,Yes,Yes,yes,True
+5a4a5850-25667f4d-fcbb0717-1882b096-7f7e65da,62.0,Male,Black,Is the patient in the upright position during the chest radiographs?,Spatial relations,Yes,Yes,yes,False
+28ab63f1-12d93be1-5b4c352e-085502dc-59984d8c,40.0,Female,White,"Is there focal consolidation, effusion, or pneumothorax?",Existence,No,No,no,True
+28ab63f1-12d93be1-5b4c352e-085502dc-59984d8c,40.0,Female,White,"Is there focal consolidation, effusion, or pneumothorax?",Existence,No,No,no,False
+eef6b3f2-60cdab3e-e2b7768e-ceed9b2a-7c3c54b3,59.0,Female,Black,Is there a pleural effusion identified?,Existence,No,No,no,True
+eef6b3f2-60cdab3e-e2b7768e-ceed9b2a-7c3c54b3,59.0,Female,Black,Is there a pleural effusion identified?,Existence,No,No,no,False
+83a46c31-232fa247-5420a9e4-ddac84d6-c6b384b1,44.0,Female,Black,Are the cardiomediastinal silhouettes within normal limits?,Spatial relations,Yes,Yes,yes,True
+83a46c31-232fa247-5420a9e4-ddac84d6-c6b384b1,44.0,Female,Black,Are the cardiomediastinal silhouettes within normal limits?,Spatial relations,Yes,Yes,yes,False
+8ea1bfde-5d6681f8-6c922370-8c450ad6-06b5c9d6,61.0,Female,White,Is there a small left pleural effusion?,Existence,Yes,Yes,yes,True
+8ea1bfde-5d6681f8-6c922370-8c450ad6-06b5c9d6,61.0,Female,White,Is there a small left pleural effusion?,Existence,Yes,Yes,no,False
+30951816-ccea32bc-7cab9495-aa06f561-4ad96fae,50.0,Male,White,Is the streaky opacity in the retrocardiac left lung base?,Spatial relations,Yes,Yes,yes,True
+30951816-ccea32bc-7cab9495-aa06f561-4ad96fae,50.0,Male,White,Is the streaky opacity in the retrocardiac left lung base?,Spatial relations,Yes,Yes,yes,False
+220321e0-eb004ec2-2ca00736-3497af7f-12ce0ec7,29.0,Male,White,Is there a pleural effusion?,Existence,No,No,no,True
+220321e0-eb004ec2-2ca00736-3497af7f-12ce0ec7,29.0,Male,White,Is there a pleural effusion?,Existence,No,No,no,False
+024d48a5-c9c05f6a-e202f27c-11caaae3-26cacc22,80.0,Female,White,Is there significant pleural effusion or pneumothorax?,Existence,No,No,no,True
+024d48a5-c9c05f6a-e202f27c-11caaae3-26cacc22,80.0,Female,White,Is there significant pleural effusion or pneumothorax?,Existence,No,No,no,False
+f5aaf787-f78adabc-0d08cd46-23bb11e1-e8c73dab,74.0,Female,White,Is there a leftward shift of mediastinal structures secondary to the mass effect?,Spatial relations,Yes,Yes,yes,True
+f5aaf787-f78adabc-0d08cd46-23bb11e1-e8c73dab,74.0,Female,White,Is there a leftward shift of mediastinal structures secondary to the mass effect?,Spatial relations,Yes,Yes,no,False
+6ec4ef75-6e1a999b-602fdd32-de7e0cb6-8932fc13,65.0,Male,White,Is the right PICC line tip near the cavoatrial junction?,Spatial relations,No,No,yes,True
+6ec4ef75-6e1a999b-602fdd32-de7e0cb6-8932fc13,65.0,Male,White,Is the right PICC line tip near the cavoatrial junction?,Spatial relations,No,No,no,False
+9db8d8b9-2ac32be7-6b24866c-614cda7c-ca7b2c8c,70.0,Male,Black,Is the ET tube tip above the carina?,Spatial relations,Yes,Yes,yes,True
+9db8d8b9-2ac32be7-6b24866c-614cda7c-ca7b2c8c,70.0,Male,Black,Is the ET tube tip above the carina?,Spatial relations,Yes,Yes,no,False
+629a0da7-5cfa2f33-8d4ca5c6-89bb9563-c6ea023d,55.0,Male,White,Is there pleural effusion?,Existence,No,No,no,True
+629a0da7-5cfa2f33-8d4ca5c6-89bb9563-c6ea023d,55.0,Male,White,Is there pleural effusion?,Existence,No,No,no,False
+241f619e-b15926e1-74434ba2-88537e8a-529f52a9,89.0,Male,White,Is there a pneumothorax?,Spatial relations,No,No,no,True
+241f619e-b15926e1-74434ba2-88537e8a-529f52a9,89.0,Male,White,Is there a pneumothorax?,Spatial relations,No,No,no,False
+66c9458a-b8455ee7-4a5f6345-b3119f51-0d5bb47c,49.0,Male,White,Is there an impression in the right superior portion of the trachea?,Spatial relations,Yes,Yes,yes,True
+66c9458a-b8455ee7-4a5f6345-b3119f51-0d5bb47c,49.0,Male,White,Is there an impression in the right superior portion of the trachea?,Spatial relations,Yes,Yes,yes,False
+db72043c-3d943f05-95ab5eba-2d571011-df0cffb6,65.0,Female,Black,Is there a small right pleural effusion?,Existence,Yes,Yes,yes,True
+db72043c-3d943f05-95ab5eba-2d571011-df0cffb6,65.0,Female,Black,Is there a small right pleural effusion?,Existence,Yes,Yes,no,False
+67cc8b4f-f717fa0e-32728275-7c3d3964-aee3034c,50.0,Male,White,Is the calcified anterior mediastinal lymph node visualized?,Spatial relations,Yes,Yes,yes,True
+67cc8b4f-f717fa0e-32728275-7c3d3964-aee3034c,50.0,Male,White,Is the calcified anterior mediastinal lymph node visualized?,Spatial relations,Yes,Yes,yes,False
+5afd8cb5-7647d8ca-5859966b-cd00fe05-1f59fa39,64.0,Female,White,Does the vascular stent project over the left proximal clavicle?,Spatial relations,Yes,Yes,yes,True
+5afd8cb5-7647d8ca-5859966b-cd00fe05-1f59fa39,64.0,Female,White,Does the vascular stent project over the left proximal clavicle?,Spatial relations,Yes,Yes,yes,False
+f8757101-f91aec72-52eebbe2-295a13ae-a34954f3,80.0,Female,White,Is the thoracic aorta markedly tortuous?,Spatial relations,Yes,Yes,yes,True
+f8757101-f91aec72-52eebbe2-295a13ae-a34954f3,80.0,Female,White,Is the thoracic aorta markedly tortuous?,Spatial relations,Yes,Yes,yes,False
+69b3bf8a-ac280e89-70e02346-2751a606-5753bdc9,57.0,Female,White,Is the cardiac silhouette stable?,Spatial relations,Yes,Yes,yes,True
+69b3bf8a-ac280e89-70e02346-2751a606-5753bdc9,57.0,Female,White,Is the cardiac silhouette stable?,Spatial relations,Yes,Yes,yes,False
+50c3bca6-0fcc6048-1510d79f-e3c69c03-5cea2b46,57.0,Female,White,Are there pleural effusions or pneumothoraces?,Existence,No,No,no,True
+50c3bca6-0fcc6048-1510d79f-e3c69c03-5cea2b46,57.0,Female,White,Are there pleural effusions or pneumothoraces?,Existence,No,No,no,False
+7e365024-99ad6158-7d4fec19-5bdc6966-c3873270,72.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+7e365024-99ad6158-7d4fec19-5bdc6966-c3873270,72.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+6453a4b9-2727b519-d55782a2-a09a35ec-92a47442,62.0,Male,White,Is there pleural effusion?,Existence,No,No,no,True
+6453a4b9-2727b519-d55782a2-a09a35ec-92a47442,62.0,Male,White,Is there pleural effusion?,Existence,No,No,no,False
+a3bf513b-3f44dc54-d5bef49c-d2e14aa7-c185b400,66.0,Female,Black,Does the left chest tube project over the region of the diaphragm?,Spatial relations,Yes,Yes,yes,True
+a3bf513b-3f44dc54-d5bef49c-d2e14aa7-c185b400,66.0,Female,Black,Does the left chest tube project over the region of the diaphragm?,Spatial relations,Yes,Yes,no,False
+3866843a-0c44da5c-d9b6ca17-6c8fe16f-917a6f24,69.0,Male,Black,Is the inferior expansion of the right apical opacity likely representing a localized effusion?,Spatial relations,Yes,Yes,yes,True
+3866843a-0c44da5c-d9b6ca17-6c8fe16f-917a6f24,69.0,Male,Black,Is the inferior expansion of the right apical opacity likely representing a localized effusion?,Spatial relations,Yes,Yes,no,False
+d8147c58-1e3337e0-df0f6637-64960c91-14d894bf,70.0,Female,Asian,Is there free air below the right hemidiaphragm?,Spatial relations,No,No,no,True
+d8147c58-1e3337e0-df0f6637-64960c91-14d894bf,70.0,Female,Asian,Is there free air below the right hemidiaphragm?,Spatial relations,No,No,no,False
+4d53c4c6-9514ba50-2b4784b4-4ae7bf48-5e268403,67.0,Male,White,Are there pleural effusions present?,Existence,Yes,Yes,yes,True
+4d53c4c6-9514ba50-2b4784b4-4ae7bf48-5e268403,67.0,Male,White,Are there pleural effusions present?,Existence,Yes,Yes,yes,False
+ed211ad7-cfa55e87-add0e70d-9589201d-6efd4539,61.0,Female,White,Is the heart mildly enlarged with mild interstitial edema noted?,Spatial relations,Yes,Yes,yes,True
+ed211ad7-cfa55e87-add0e70d-9589201d-6efd4539,61.0,Female,White,Is the heart mildly enlarged with mild interstitial edema noted?,Spatial relations,Yes,Yes,yes,False
+5fd72ed1-ff28c5fe-d3289d66-ba4b2a91-3bea0e15,74.0,Female,White,Is the tip of the accessed right pectoral MediPort at the superior cavoatrial junction?,Spatial relations,Yes,Yes,yes,True
+5fd72ed1-ff28c5fe-d3289d66-ba4b2a91-3bea0e15,74.0,Female,White,Is the tip of the accessed right pectoral MediPort at the superior cavoatrial junction?,Spatial relations,Yes,Yes,no,False
+edba8b2f-2f0db667-2dd1afc0-d455dfbe-9e0df3f9,27.0,Male,White,Is there a description of the spatial position of the heart?,Spatial relations,No,No,no,True
+edba8b2f-2f0db667-2dd1afc0-d455dfbe-9e0df3f9,27.0,Male,White,Is there a description of the spatial position of the heart?,Spatial relations,No,No,no,False
+8d6a5e05-5c5d5f9c-cbc3ab6d-c07e120b-54a18a27,38.0,Female,White,Is there a large effusion or pneumothorax?,Existence,No,No,no,True
+8d6a5e05-5c5d5f9c-cbc3ab6d-c07e120b-54a18a27,38.0,Female,White,Is there a large effusion or pneumothorax?,Existence,No,No,no,False
+4f77b71b-c340c9e3-90aa2b5f-c9ce0653-4c2f87d9,69.0,Female,Black,Is the right costophrenic angle blunted on the frontal view?,Spatial relations,Yes,Yes,yes,True
+4f77b71b-c340c9e3-90aa2b5f-c9ce0653-4c2f87d9,69.0,Female,Black,Is the right costophrenic angle blunted on the frontal view?,Spatial relations,Yes,Yes,yes,False
+db1ebfea-0fc49423-6e9073b0-f4e4961e-0ad2f618,68.0,Male,White,Is there a large pleural effusion or pneumothorax?,Existence,No,No,no,True
+db1ebfea-0fc49423-6e9073b0-f4e4961e-0ad2f618,68.0,Male,White,Is there a large pleural effusion or pneumothorax?,Existence,No,No,no,False
+9c5ae31a-a6b059c9-05943901-a2ca0f9c-34a1121d,81.0,Male,Black,Is there bilateral pleural effusion?,Existence,Yes,Yes,yes,True
+9c5ae31a-a6b059c9-05943901-a2ca0f9c-34a1121d,81.0,Male,Black,Is there bilateral pleural effusion?,Existence,Yes,Yes,no,False
+324c35de-aee461b5-a7f62a5a-a9d841a9-7978f50a,67.0,Female,White,Is there free air below the right hemidiaphragm?,Spatial relations,No,No,no,True
+324c35de-aee461b5-a7f62a5a-a9d841a9-7978f50a,67.0,Female,White,Is there free air below the right hemidiaphragm?,Spatial relations,No,No,no,False
+ef9059c2-88bd8149-131e547d-e05c2c3d-0d39fd05,36.0,Male,White,"Is there focal consolidation, effusion, or pneumothorax?",Existence,No,No,no,True
+ef9059c2-88bd8149-131e547d-e05c2c3d-0d39fd05,36.0,Male,White,"Is there focal consolidation, effusion, or pneumothorax?",Existence,No,No,no,False
+b8085893-003495d5-dd75aa48-20c3aef7-ca48dee9,61.0,Male,White,Is there evidence of pneumothorax or pleural effusion?,Existence,No,No,no,True
+b8085893-003495d5-dd75aa48-20c3aef7-ca48dee9,61.0,Male,White,Is there evidence of pneumothorax or pleural effusion?,Existence,No,No,no,False
+2a4f444b-4fd0e0c6-af2f6381-58b97244-5d32f265,78.0,Female,Black,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,True
+2a4f444b-4fd0e0c6-af2f6381-58b97244-5d32f265,78.0,Female,Black,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,False
+54695881-ec7c4513-4f9539bb-4bb9a88c-fa8ebfe4,47.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+54695881-ec7c4513-4f9539bb-4bb9a88c-fa8ebfe4,47.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+79c7ba68-832eae7c-ac5b536a-27c66608-7b1b7fd7,65.0,Male,Black,Is the right jugular catheter in standard position?,Spatial relations,Yes,Yes,yes,True
+79c7ba68-832eae7c-ac5b536a-27c66608-7b1b7fd7,65.0,Male,Black,Is the right jugular catheter in standard position?,Spatial relations,Yes,Yes,yes,False
+157c2d11-cc34fcda-9b121dd2-3ffc08f0-8a136a37,68.0,Female,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+157c2d11-cc34fcda-9b121dd2-3ffc08f0-8a136a37,68.0,Female,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+321b7913-ef60b186-daa30056-1f02fa6c-0df67b5d,59.0,Male,White,"Is there evidence of pneumonia, pneumothorax, or pleural effusion?",Existence,No,No,no,True
+321b7913-ef60b186-daa30056-1f02fa6c-0df67b5d,59.0,Male,White,"Is there evidence of pneumonia, pneumothorax, or pleural effusion?",Existence,No,No,no,False
+b0ecfe02-2c93d506-30052570-8bec2408-deb81afc,82.0,Female,White,Is there blunting of the costophrenic angle on the left?,Spatial relations,Yes,Yes,yes,True
+b0ecfe02-2c93d506-30052570-8bec2408-deb81afc,82.0,Female,White,Is there blunting of the costophrenic angle on the left?,Spatial relations,Yes,Yes,yes,False
+d9473f9d-fb9b3ee9-5c527f94-28147eb2-d0656683,32.0,Female,Black,"Is there consolidation, effusion, or edema?",Existence,No,No,no,True
+d9473f9d-fb9b3ee9-5c527f94-28147eb2-d0656683,32.0,Female,Black,"Is there consolidation, effusion, or edema?",Existence,No,No,no,False
+32c3e022-942de106-7a5e7718-41624627-ecd12797,57.0,Male,White,Is there a right pleural effusion?,Existence,No,No,no,True
+32c3e022-942de106-7a5e7718-41624627-ecd12797,57.0,Male,White,Is there a right pleural effusion?,Existence,No,No,no,False
+156a9512-45f7f27e-28798bc3-3d8d9ca5-071fb8cb,68.0,Male,White,Is the tip of the left PICC line over the superior cavoatrial junction?,Spatial relations,Yes,Yes,yes,True
+156a9512-45f7f27e-28798bc3-3d8d9ca5-071fb8cb,68.0,Male,White,Is the tip of the left PICC line over the superior cavoatrial junction?,Spatial relations,Yes,Yes,yes,False
+8e9e678c-b2b4effb-ffba1565-cf091289-210e0fe7,68.0,Male,White,Is there a large effusion or pneumothorax?,Existence,No,No,no,True
+8e9e678c-b2b4effb-ffba1565-cf091289-210e0fe7,68.0,Male,White,Is there a large effusion or pneumothorax?,Existence,No,No,no,False
+686ec8a0-0794756d-0bfcc680-3f673b70-3a214cc3,85.0,Female,White,Is there a pleural effusion or pneumothorax detected?,Existence,No,No,no,True
+686ec8a0-0794756d-0bfcc680-3f673b70-3a214cc3,85.0,Female,White,Is there a pleural effusion or pneumothorax detected?,Existence,No,No,no,False
+7a7b034a-7558e6e0-ff6fb8bf-4a198964-5d19cd69,55.0,Male,White,Is there a pleural effusion?,Existence,Yes,Yes,yes,True
+7a7b034a-7558e6e0-ff6fb8bf-4a198964-5d19cd69,55.0,Male,White,Is there a pleural effusion?,Existence,Yes,Yes,yes,False
+36aaec37-812a7aef-d64b5605-ed8b7bae-8b27582c,93.0,Female,White,Is there a left pleural effusion?,Existence,Yes,Yes,yes,True
+36aaec37-812a7aef-d64b5605-ed8b7bae-8b27582c,93.0,Female,White,Is there a left pleural effusion?,Existence,Yes,Yes,yes,False
+1bd79482-4f9c5a33-5a5922a8-249a78ef-18742a01,71.0,Male,Black,Is there a pleural effusion?,Existence,No,No,no,True
+1bd79482-4f9c5a33-5a5922a8-249a78ef-18742a01,71.0,Male,Black,Is there a pleural effusion?,Existence,No,No,no,False
+2cdb6f0e-cb1615fd-ebefc1d5-2cd6a139-d031f66b,62.0,Male,White,Is there a small left effusion?,Existence,Yes,Yes,yes,True
+2cdb6f0e-cb1615fd-ebefc1d5-2cd6a139-d031f66b,62.0,Male,White,Is there a small left effusion?,Existence,Yes,Yes,no,False
+260270d9-1d280307-e3a9be8a-0f6eb19d-2b0a13e6,47.0,Female,White,Is the cardiomediastinal silhouette normal?,Spatial relations,Yes,Yes,yes,True
+260270d9-1d280307-e3a9be8a-0f6eb19d-2b0a13e6,47.0,Female,White,Is the cardiomediastinal silhouette normal?,Spatial relations,Yes,Yes,yes,False
+3de576b5-67abdd55-5e7f7397-bd862190-1ff1c1c5,59.0,Female,Black,Is there a large pleural effusion?,Existence,No,No,no,True
+3de576b5-67abdd55-5e7f7397-bd862190-1ff1c1c5,59.0,Female,Black,Is there a large pleural effusion?,Existence,No,No,no,False
+cabbbf75-3fd892e6-697cd8ee-d77563dd-a174163f,44.0,Female,Black,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,True
+cabbbf75-3fd892e6-697cd8ee-d77563dd-a174163f,44.0,Female,Black,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,False
+4efe2796-a4a3273c-d9161c7c-fed25e2b-b8403a05,74.0,Male,White,Is the cardiomediastinal silhouette stable?,Spatial relations,Yes,Yes,yes,True
+4efe2796-a4a3273c-d9161c7c-fed25e2b-b8403a05,74.0,Male,White,Is the cardiomediastinal silhouette stable?,Spatial relations,Yes,Yes,yes,False
+e77c66fa-c7467ac2-3955d67e-4925e24c-86b6aba8,66.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+e77c66fa-c7467ac2-3955d67e-4925e24c-86b6aba8,66.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+578f4594-2a2dde46-9ac9f4ce-4b8eb48f-d6860c15,71.0,Male,Black,Is the left distal clavicle foreshortened?,Spatial relations,Yes,Yes,yes,True
+578f4594-2a2dde46-9ac9f4ce-4b8eb48f-d6860c15,71.0,Male,Black,Is the left distal clavicle foreshortened?,Spatial relations,Yes,Yes,yes,False
+abb1d1ad-e7466374-cdd578f5-bee6a5d1-6840a0ed,32.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+abb1d1ad-e7466374-cdd578f5-bee6a5d1-6840a0ed,32.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+35bbcc89-9573b6fa-766ad5b0-18138b17-3683ab58,67.0,Female,Black,Is there a right-sided Port-A-Cath?,Existence,No,No,no,True
+35bbcc89-9573b6fa-766ad5b0-18138b17-3683ab58,67.0,Female,Black,Is there a right-sided Port-A-Cath?,Existence,No,No,no,False
+d6ce7de3-0ab097b2-a18bbd7f-b45a5451-c2e1d9f0,86.0,Male,White,Is there a specific location for the bilateral effusions?,Spatial relations,No,No,no,True
+d6ce7de3-0ab097b2-a18bbd7f-b45a5451-c2e1d9f0,86.0,Male,White,Is there a specific location for the bilateral effusions?,Spatial relations,No,No,no,False
+739d91e3-44f91c3e-9ddfffff-00b9c55e-bacf7247,81.0,Male,White,Is the azygos fissure a common normal variant?,Spatial relations,Yes,Yes,yes,True
+739d91e3-44f91c3e-9ddfffff-00b9c55e-bacf7247,81.0,Male,White,Is the azygos fissure a common normal variant?,Spatial relations,Yes,Yes,yes,False
+106c5aa1-4a0f5bca-530ba4da-0768fcff-035440cc,72.0,Female,White,Is the airspace consolidation within the left lower lobe?,Spatial relations,Yes,Yes,yes,True
+106c5aa1-4a0f5bca-530ba4da-0768fcff-035440cc,72.0,Female,White,Is the airspace consolidation within the left lower lobe?,Spatial relations,Yes,Yes,yes,False
+91a60f9f-e4c74712-8f08289e-d7cf9539-810ba3a9,37.0,Male,White,Is the cardiomediastinal and hilar contours within normal limits?,Spatial relations,Yes,Yes,yes,True
+91a60f9f-e4c74712-8f08289e-d7cf9539-810ba3a9,37.0,Male,White,Is the cardiomediastinal and hilar contours within normal limits?,Spatial relations,Yes,Yes,yes,False
+6e032ab3-5119d263-dda87161-61144223-929b79d5,83.0,Male,White,Does the left PICC terminate at the junction of the left brachiocephalic vein and superior vena cava?,Spatial relations,Yes,Yes,yes,True
+6e032ab3-5119d263-dda87161-61144223-929b79d5,83.0,Male,White,Does the left PICC terminate at the junction of the left brachiocephalic vein and superior vena cava?,Spatial relations,Yes,Yes,no,False
+f8abce97-fa7ffff4-0647d901-ff1df337-0b1c858c,66.0,Male,White,Is there a pleural effusion seen?,Existence,No,No,no,True
+f8abce97-fa7ffff4-0647d901-ff1df337-0b1c858c,66.0,Male,White,Is there a pleural effusion seen?,Existence,No,No,no,False
+0b25070e-29929289-a465b888-1cac5730-67b79709,64.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+0b25070e-29929289-a465b888-1cac5730-67b79709,64.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+473f5e8f-2a23b8cd-23ffcb6e-690f741f-6fa033f5,67.0,Female,White,"Is there a pleural effusion, pneumothorax, or pulmonary edema?",Existence,No,No,no,True
+473f5e8f-2a23b8cd-23ffcb6e-690f741f-6fa033f5,67.0,Female,White,"Is there a pleural effusion, pneumothorax, or pulmonary edema?",Existence,No,No,no,False
+323dbad7-588ce8bf-927dab20-e6fa7e1f-a0d86757,53.0,Male,White,Is the linear opacity in the right lower lung compatible with platelike atelectasis?,Spatial relations,Yes,Yes,yes,True
+323dbad7-588ce8bf-927dab20-e6fa7e1f-a0d86757,53.0,Male,White,Is the linear opacity in the right lower lung compatible with platelike atelectasis?,Spatial relations,Yes,Yes,yes,False
+2702a2ba-255b8d38-39d67f03-7f877a9a-79f63f4e,45.0,Female,White,Is there a displaced fracture?,Spatial relations,No,No,no,True
+2702a2ba-255b8d38-39d67f03-7f877a9a-79f63f4e,45.0,Female,White,Is there a displaced fracture?,Spatial relations,No,No,no,False
+70883241-b4a8f633-06ce81c9-b6b8892e-0e33931b,55.0,Male,Black,Is the cardiomediastinal silhouette within normal limits?,Spatial relations,Yes,Yes,yes,True
+70883241-b4a8f633-06ce81c9-b6b8892e-0e33931b,55.0,Male,Black,Is the cardiomediastinal silhouette within normal limits?,Spatial relations,Yes,Yes,yes,False
+ccf41970-4d62369b-baf8b652-20267eab-f66522d4,86.0,Female,Black,Is there a pleural effusion?,Existence,No,No,no,True
+ccf41970-4d62369b-baf8b652-20267eab-f66522d4,86.0,Female,Black,Is there a pleural effusion?,Existence,No,No,no,False
+2a525ab9-bf9f05c1-af29d826-e5a3ca94-750117ae,71.0,Male,White,Is the patient rotated to the left?,Spatial relations,Yes,Yes,yes,True
+2a525ab9-bf9f05c1-af29d826-e5a3ca94-750117ae,71.0,Male,White,Is the patient rotated to the left?,Spatial relations,Yes,Yes,no,False
+f0673f86-8fe28ebb-e88f5afb-41481a66-0afdc93b,43.0,Male,Black,Is there a large pleural effusion or evidence of pneumothorax?,Existence,No,No,no,True
+f0673f86-8fe28ebb-e88f5afb-41481a66-0afdc93b,43.0,Male,Black,Is there a large pleural effusion or evidence of pneumothorax?,Existence,No,No,no,False
+7a144f99-79f9b1d8-e41bc089-031d621b-2fc6e896,39.0,Male,Black,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,True
+7a144f99-79f9b1d8-e41bc089-031d621b-2fc6e896,39.0,Male,Black,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,False
+8e57e312-3a815fcd-9c4f64bc-03ffaf8d-89eefde0,38.0,Male,White,Is there new consolidation in the right lower lobe?,Existence,Yes,Yes,yes,True
+8e57e312-3a815fcd-9c4f64bc-03ffaf8d-89eefde0,38.0,Male,White,Is there new consolidation in the right lower lobe?,Existence,Yes,Yes,yes,False
+9c9ae98c-ae6c80fc-a53dcd3e-e4625486-7f8f1d5b,75.0,Male,White,Is there a pneumothorax or pleural effusion?,Existence,No,No,no,True
+9c9ae98c-ae6c80fc-a53dcd3e-e4625486-7f8f1d5b,75.0,Male,White,Is there a pneumothorax or pleural effusion?,Existence,No,No,no,False
+317bd876-cb2b0c0f-d8cf7c0f-6b7803bd-54aaf416,95.0,Female,White,Is there a pneumothorax or pleural effusion?,Existence,No,No,no,True
+317bd876-cb2b0c0f-d8cf7c0f-6b7803bd-54aaf416,95.0,Female,White,Is there a pneumothorax or pleural effusion?,Existence,No,No,no,False
+fd0034e3-5dadf204-d5974885-1acd3ef2-90fd9166,25.0,Male,White,Is the left hilum due to underlying vascular structures?,Spatial relations,Yes,Yes,yes,True
+fd0034e3-5dadf204-d5974885-1acd3ef2-90fd9166,25.0,Male,White,Is the left hilum due to underlying vascular structures?,Spatial relations,Yes,Yes,yes,False
+90b7ef88-b571c1c2-1fbcf072-2984bc6b-1198fbac,77.0,Male,White,Is the tip of the right PICC line over the lower SVC?,Spatial relations,Yes,Yes,yes,True
+90b7ef88-b571c1c2-1fbcf072-2984bc6b-1198fbac,77.0,Male,White,Is the tip of the right PICC line over the lower SVC?,Spatial relations,Yes,Yes,no,False
+3bf7ebaa-03a3978e-16bfaa24-cce5d47f-d8203bbf,84.0,Male,White,Are the cholecystectomy clips in the right upper quadrant of the abdomen?,Spatial relations,Yes,Yes,yes,True
+3bf7ebaa-03a3978e-16bfaa24-cce5d47f-d8203bbf,84.0,Male,White,Are the cholecystectomy clips in the right upper quadrant of the abdomen?,Spatial relations,Yes,Yes,yes,False
+c9d2af76-d333359d-8290064e-18fff730-478aa95b,73.0,Male,White,Is the extreme lung apices obscured by the patient's chin and neck soft tissues?,Spatial relations,Yes,Yes,yes,True
+c9d2af76-d333359d-8290064e-18fff730-478aa95b,73.0,Male,White,Is the extreme lung apices obscured by the patient's chin and neck soft tissues?,Spatial relations,Yes,Yes,yes,False
+636c861b-f978de8d-fd4a35bd-1563a5a5-9b71aaba,58.0,Female,Black,Is the atelectasis at the right lung base?,Spatial relations,Yes,Yes,yes,True
+636c861b-f978de8d-fd4a35bd-1563a5a5-9b71aaba,58.0,Female,Black,Is the atelectasis at the right lung base?,Spatial relations,Yes,Yes,yes,False
+90d3bb70-02166008-3c69a263-64486f11-7c532121,63.0,Female,White,Is there a pleural effusion or pneumothorax or pneumomediastinum?,Existence,No,No,no,True
+90d3bb70-02166008-3c69a263-64486f11-7c532121,63.0,Female,White,Is there a pleural effusion or pneumothorax or pneumomediastinum?,Existence,No,No,no,False
+21b1d0a0-ea10f33c-6e000ecd-d153efbc-7da89f7c,92.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+21b1d0a0-ea10f33c-6e000ecd-d153efbc-7da89f7c,92.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+8eadfc22-666e27fe-79b4e828-6cbf621d-1d09fdca,84.0,Male,White,Is there a pleural effusion?,Existence,Yes,Yes,yes,True
+8eadfc22-666e27fe-79b4e828-6cbf621d-1d09fdca,84.0,Male,White,Is there a pleural effusion?,Existence,Yes,Yes,yes,False
+dc761961-90cd52e7-e7a075be-731a3ba4-e57bd43f,57.0,Male,White,Is there a left pleural effusion?,Existence,No,No,no,True
+dc761961-90cd52e7-e7a075be-731a3ba4-e57bd43f,57.0,Male,White,Is there a left pleural effusion?,Existence,No,No,no,False
+20d834f8-86dd84e2-e02d3464-842f4198-237392fd,74.0,Male,Black,Is there evidence for pulmonary edema?,Existence,No,No,no,True
+20d834f8-86dd84e2-e02d3464-842f4198-237392fd,74.0,Male,Black,Is there evidence for pulmonary edema?,Existence,No,No,no,False
+9b23eb8b-371d296a-3711b15e-c44e81a5-8e57a9aa,60.0,Male,White,Is the right chest tube in place?,Spatial relations,Yes,Yes,yes,True
+9b23eb8b-371d296a-3711b15e-c44e81a5-8e57a9aa,60.0,Male,White,Is the right chest tube in place?,Spatial relations,Yes,Yes,yes,False
+c50c6c70-e67c3f9c-b1a0d387-fab40acc-00dfb84e,45.0,Female,Black,Is the mediastinal lymphadenopathy well appreciated on today's radiograph?,Spatial relations,No,No,no,True
+c50c6c70-e67c3f9c-b1a0d387-fab40acc-00dfb84e,45.0,Female,Black,Is the mediastinal lymphadenopathy well appreciated on today's radiograph?,Spatial relations,No,No,no,False
+90b9189a-c00e4d20-2c0c6fda-0d64c849-359f8e72,40.0,Female,White,Is the opacity in the right lower lobe concerning for pneumonia?,Spatial relations,Yes,Yes,yes,True
+90b9189a-c00e4d20-2c0c6fda-0d64c849-359f8e72,40.0,Female,White,Is the opacity in the right lower lobe concerning for pneumonia?,Spatial relations,Yes,Yes,yes,False
+f7905e00-85d1661b-35bcd3ce-bedadccd-e045e3bf,68.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+f7905e00-85d1661b-35bcd3ce-bedadccd-e045e3bf,68.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+0866b8ff-877d286f-bae90ff6-f28d7c30-04aaa672,71.0,Female,White,Is there an endotracheal tube placement?,Existence,Yes,Yes,yes,True
+0866b8ff-877d286f-bae90ff6-f28d7c30-04aaa672,71.0,Female,White,Is there an endotracheal tube placement?,Existence,Yes,Yes,yes,False
+b4284975-20732ac6-7169f8d5-73524403-1af4ff06,71.0,Male,White,Is the aortic knob involved with atherosclerotic calcifications?,Spatial relations,Yes,Yes,yes,True
+b4284975-20732ac6-7169f8d5-73524403-1af4ff06,71.0,Male,White,Is the aortic knob involved with atherosclerotic calcifications?,Spatial relations,Yes,Yes,yes,False
+cd8f3cbf-3483b325-166bbe05-e15bca07-adad015e,62.0,Female,White,Is there a very large hiatal hernia demonstrated?,Spatial relations,Yes,Yes,yes,True
+cd8f3cbf-3483b325-166bbe05-e15bca07-adad015e,62.0,Female,White,Is there a very large hiatal hernia demonstrated?,Spatial relations,Yes,Yes,yes,False
+40805ef2-1ee8c950-26389ae1-e09922f0-7993c41c,64.0,Female,White,Is the tip of the left PICC in the mid SVC?,Spatial relations,Yes,Yes,yes,True
+40805ef2-1ee8c950-26389ae1-e09922f0-7993c41c,64.0,Female,White,Is the tip of the left PICC in the mid SVC?,Spatial relations,Yes,Yes,no,False
+58f24279-9828d9a9-dba2626f-dcc8bf97-63a6545e,67.0,Female,White,"Is there focal consolidation, effusion, or pneumothorax?",Existence,No,No,no,True
+58f24279-9828d9a9-dba2626f-dcc8bf97-63a6545e,67.0,Female,White,"Is there focal consolidation, effusion, or pneumothorax?",Existence,No,No,no,False
+a5223208-a473a93b-5bd6e9cf-e1a06851-fecd6a13,72.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+a5223208-a473a93b-5bd6e9cf-e1a06851-fecd6a13,72.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+c5d5c445-4edd6c28-43fe2564-ce3f67b2-07146b0d,28.0,Male,White,Is the small fan-like opacity in the peripheral right middle lobe?,Spatial relations,Yes,Yes,yes,True
+c5d5c445-4edd6c28-43fe2564-ce3f67b2-07146b0d,28.0,Male,White,Is the small fan-like opacity in the peripheral right middle lobe?,Spatial relations,Yes,Yes,yes,False
+56d46402-a3d23a90-6a3fc09d-334e4f28-66aaf85c,83.0,Male,Black,Is there pleural effusion or pneumothorax?,Existence,No,No,no,True
+56d46402-a3d23a90-6a3fc09d-334e4f28-66aaf85c,83.0,Male,Black,Is there pleural effusion or pneumothorax?,Existence,No,No,no,False
+ce105f6b-ee5a090f-2bafe787-c185f031-d5b32be3,73.0,Male,White,Is the left lower lung pleural thickening and scarring stable?,Spatial relations,Yes,Yes,yes,True
+ce105f6b-ee5a090f-2bafe787-c185f031-d5b32be3,73.0,Male,White,Is the left lower lung pleural thickening and scarring stable?,Spatial relations,Yes,Yes,yes,False
+f4143a90-9d6f96ec-67d7078e-2b020a4f-2e6f85bf,63.0,Male,Black,Is the tip of the nasogastric tube projecting over the stomach?,Spatial relations,Yes,Yes,yes,True
+f4143a90-9d6f96ec-67d7078e-2b020a4f-2e6f85bf,63.0,Male,Black,Is the tip of the nasogastric tube projecting over the stomach?,Spatial relations,Yes,Yes,yes,False
+f7c2572d-932d5f73-ff3b7980-693c3cfa-b7ed27e9,52.0,Female,White,Is there a specific location mentioned for the pleural effusion or pneumothorax?,Spatial relations,No,No,no,True
+f7c2572d-932d5f73-ff3b7980-693c3cfa-b7ed27e9,52.0,Female,White,Is there a specific location mentioned for the pleural effusion or pneumothorax?,Spatial relations,No,No,no,False
+2fae5040-00fce099-5acf30e4-1b28701a-e61390a5,74.0,Male,White,Is the central venous catheter visualized?,Spatial relations,No,No,no,True
+2fae5040-00fce099-5acf30e4-1b28701a-e61390a5,74.0,Male,White,Is the central venous catheter visualized?,Spatial relations,No,No,no,False
+4f72bf58-c80c8162-43df0c94-11f0a0a8-b43acdb3,56.0,Male,Black,Is there pleural effusion or pneumothorax?,Existence,No,No,no,True
+4f72bf58-c80c8162-43df0c94-11f0a0a8-b43acdb3,56.0,Male,Black,Is there pleural effusion or pneumothorax?,Existence,No,No,no,False
+d8160e7c-9b547fd3-0cb1fb59-a014d3ed-eac98792,58.0,Female,White,Is the cardiac silhouette at the upper limit of normal?,Spatial relations,Yes,Yes,yes,True
+d8160e7c-9b547fd3-0cb1fb59-a014d3ed-eac98792,58.0,Female,White,Is the cardiac silhouette at the upper limit of normal?,Spatial relations,Yes,Yes,yes,False
+de248f38-610b9e91-ee682d44-c1858e08-2308fef4,85.0,Male,White,Is the cardiac silhouette obscured by the pleural effusion?,Spatial relations,Yes,Yes,yes,True
+de248f38-610b9e91-ee682d44-c1858e08-2308fef4,85.0,Male,White,Is the cardiac silhouette obscured by the pleural effusion?,Spatial relations,Yes,Yes,yes,False
+f985d27b-5a989257-7fe132f0-e206bd7a-5594d84b,62.0,Female,White,Is the pneumothorax located on the right side?,Spatial relations,Yes,Yes,yes,True
+f985d27b-5a989257-7fe132f0-e206bd7a-5594d84b,62.0,Female,White,Is the pneumothorax located on the right side?,Spatial relations,Yes,Yes,yes,False
+a4fc1c40-97054b60-0dcd5439-b8d62843-75fc5f55,58.0,Female,White,Is the endotracheal tube at the thoracic inlet?,Spatial relations,Yes,Yes,yes,True
+a4fc1c40-97054b60-0dcd5439-b8d62843-75fc5f55,58.0,Female,White,Is the endotracheal tube at the thoracic inlet?,Spatial relations,Yes,Yes,no,False
+15322a00-c5d3ab60-7b35afdc-7a97530b-a99febac,63.0,Female,White,"Is there a focal consolidation, pleural effusion, pneumothorax, or pulmonary edema?",Existence,No,No,no,True
+15322a00-c5d3ab60-7b35afdc-7a97530b-a99febac,63.0,Female,White,"Is there a focal consolidation, pleural effusion, pneumothorax, or pulmonary edema?",Existence,No,No,no,False
+4048fb4b-0f6cd4b8-c4e5e8b9-f321f3da-18d1e2f8,63.0,Female,White,Is there a pneumothorax appreciated?,Existence,No,No,no,True
+4048fb4b-0f6cd4b8-c4e5e8b9-f321f3da-18d1e2f8,63.0,Female,White,Is there a pneumothorax appreciated?,Existence,No,No,no,False
+f2b5279e-5ca07d35-8816397b-5368090d-713496b0,56.0,Female,Black,Is there any information about the spatial position of the cardiomediastinal silhouette and hila?,Spatial relations,No,No,yes,True
+f2b5279e-5ca07d35-8816397b-5368090d-713496b0,56.0,Female,Black,Is there any information about the spatial position of the cardiomediastinal silhouette and hila?,Spatial relations,No,No,yes,False
+e16c356a-e1adedc9-4ef6b14c-58dd4a95-88735c62,89.0,Male,White,Is there a pleural effusion?,Existence,Yes,Yes,yes,True
+e16c356a-e1adedc9-4ef6b14c-58dd4a95-88735c62,89.0,Male,White,Is there a pleural effusion?,Existence,Yes,Yes,no,False
+914ab00a-15eb7ad4-4f8e5124-97673c1d-65df4b9f,78.0,Female,White,Is the left costophrenic angle incompletely imaged on lateral view?,Spatial relations,Yes,Yes,yes,True
+914ab00a-15eb7ad4-4f8e5124-97673c1d-65df4b9f,78.0,Female,White,Is the left costophrenic angle incompletely imaged on lateral view?,Spatial relations,Yes,Yes,yes,False
+90819cd8-98899a87-77c458e8-7dcd47c0-eba353ca,71.0,Male,White,Is there a speckled calcific density projecting over the right lung base?,Spatial relations,Yes,Yes,yes,True
+90819cd8-98899a87-77c458e8-7dcd47c0-eba353ca,71.0,Male,White,Is there a speckled calcific density projecting over the right lung base?,Spatial relations,Yes,Yes,yes,False
+0cd2501b-f2f93cfe-8a282d6b-86688e52-7fd90ee0,40.0,Female,Black,"Is there focal consolidation, effusion, or pneumothorax?",Existence,No,No,no,True
+0cd2501b-f2f93cfe-8a282d6b-86688e52-7fd90ee0,40.0,Female,Black,"Is there focal consolidation, effusion, or pneumothorax?",Existence,No,No,no,False
+40eb5224-8687e695-95da8373-62414c5d-709b2ea8,65.0,Female,White,Is there a pleural effusion or evidence of pneumothorax?,Existence,No,No,no,True
+40eb5224-8687e695-95da8373-62414c5d-709b2ea8,65.0,Female,White,Is there a pleural effusion or evidence of pneumothorax?,Existence,No,No,no,False
+d74b0fbf-b72c22ad-679c59e2-1a469fda-fcd833e8,89.0,Female,White,Is the focal area of increased opacification in the right lower lobe?,Spatial relations,Yes,Yes,yes,True
+d74b0fbf-b72c22ad-679c59e2-1a469fda-fcd833e8,89.0,Female,White,Is the focal area of increased opacification in the right lower lobe?,Spatial relations,Yes,Yes,yes,False
+aa42873b-bca3ae8f-6ce8394f-dfb009fa-14f290a2,58.0,Male,White,Are the cardiac and mediastinal silhouettes stable?,Spatial relations,Yes,Yes,yes,True
+aa42873b-bca3ae8f-6ce8394f-dfb009fa-14f290a2,58.0,Male,White,Are the cardiac and mediastinal silhouettes stable?,Spatial relations,Yes,Yes,yes,False
+8e338050-c72628f4-cf19ef85-cb13d287-5af57beb,45.0,Female,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,True
+8e338050-c72628f4-cf19ef85-cb13d287-5af57beb,45.0,Female,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,False
+cb90b1df-4ba2dba3-b8865ae2-30a039cb-4cbfdc58,71.0,Female,White,Is the linear opacity in the right lung base consistent with atelectasis?,Spatial relations,Yes,Yes,yes,True
+cb90b1df-4ba2dba3-b8865ae2-30a039cb-4cbfdc58,71.0,Female,White,Is the linear opacity in the right lung base consistent with atelectasis?,Spatial relations,Yes,Yes,yes,False
+fcf36faf-08e8096b-96050ba6-05aea158-c625c2e0,68.0,Male,White,Is there a pleural effusion or pneumothorax identified?,Existence,No,No,no,True
+fcf36faf-08e8096b-96050ba6-05aea158-c625c2e0,68.0,Male,White,Is there a pleural effusion or pneumothorax identified?,Existence,No,No,no,False
+0b5c451f-e0f0e8b6-be31e889-b228f45e-7d272ff2,85.0,Male,White,Is the right upper lung laterally involved?,Spatial relations,Yes,Yes,yes,True
+0b5c451f-e0f0e8b6-be31e889-b228f45e-7d272ff2,85.0,Male,White,Is the right upper lung laterally involved?,Spatial relations,Yes,Yes,yes,False
+f698fd94-7f265c9d-7cc265a7-f0202e64-324d627b,32.0,Male,White,Does the endotracheal tube terminate 4.9 cm above the carina?,Spatial relations,Yes,Yes,yes,True
+f698fd94-7f265c9d-7cc265a7-f0202e64-324d627b,32.0,Male,White,Does the endotracheal tube terminate 4.9 cm above the carina?,Spatial relations,Yes,Yes,yes,False
+1cf13bb2-e0228775-6a35e75a-a4ddaf23-ed255ce0,84.0,Male,White,Is there a pneumothorax?,Existence,No,No,no,True
+1cf13bb2-e0228775-6a35e75a-a4ddaf23-ed255ce0,84.0,Male,White,Is there a pneumothorax?,Existence,No,No,no,False
+54df0b44-28c81010-ba002e30-f6e15a38-37b4565a,45.0,Male,White,Is the perihilar opacity best seen on the lateral view?,Spatial relations,Yes,Yes,yes,True
+54df0b44-28c81010-ba002e30-f6e15a38-37b4565a,45.0,Male,White,Is the perihilar opacity best seen on the lateral view?,Spatial relations,Yes,Yes,yes,False
+4e2271a7-cdcd51bf-f6518e6c-7dd7c116-0c3325a1,65.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+4e2271a7-cdcd51bf-f6518e6c-7dd7c116-0c3325a1,65.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+d48ccc96-6727ee04-42664dfb-d7ea3946-421efbe6,80.0,Male,White,Is there a pleural effusion?,Existence,No,No,no,True
+d48ccc96-6727ee04-42664dfb-d7ea3946-421efbe6,80.0,Male,White,Is there a pleural effusion?,Existence,No,No,no,False
+28cbfb12-8df8cd47-803c20c8-bb6a0312-de5d4896,64.0,Male,White,Is the distal tip of the NG tube in the stomach?,Spatial relations,Yes,Yes,yes,True
+28cbfb12-8df8cd47-803c20c8-bb6a0312-de5d4896,64.0,Male,White,Is the distal tip of the NG tube in the stomach?,Spatial relations,Yes,Yes,yes,False
+52b192d5-39bfc470-57cf356c-e4c861db-8083a9fb,39.0,Female,White,Is there a pneumothorax seen?,Spatial relations,No,No,no,True
+52b192d5-39bfc470-57cf356c-e4c861db-8083a9fb,39.0,Female,White,Is there a pneumothorax seen?,Spatial relations,No,No,no,False
+3f34b61b-33c86dbb-73f77203-ea4ac951-72f6a31e,90.0,Female,White,Is the hiatal hernia moderate-sized?,Spatial relations,Yes,Yes,yes,True
+3f34b61b-33c86dbb-73f77203-ea4ac951-72f6a31e,90.0,Female,White,Is the hiatal hernia moderate-sized?,Spatial relations,Yes,Yes,yes,False
+f8a9345c-f42de3c0-b4e62a31-63d5ec28-b598ec74,57.0,Female,White,Is the right PICC line tip near the cavoatrial junction?,Spatial relations,Yes,Yes,yes,True
+f8a9345c-f42de3c0-b4e62a31-63d5ec28-b598ec74,57.0,Female,White,Is the right PICC line tip near the cavoatrial junction?,Spatial relations,Yes,Yes,no,False
+d62ea350-82574a75-f07fed16-8b9e99b2-785560cf,73.0,Male,White,Is there a pleural effusion?,Existence,No,No,no,True
+d62ea350-82574a75-f07fed16-8b9e99b2-785560cf,73.0,Male,White,Is there a pleural effusion?,Existence,No,No,no,False
+4907dbc8-896b43cc-b37d0201-d2116db2-18ad2fa8,59.0,Female,Black,Is there a pleural effusion or evidence of pneumothorax?,Existence,No,No,no,True
+4907dbc8-896b43cc-b37d0201-d2116db2-18ad2fa8,59.0,Female,Black,Is there a pleural effusion or evidence of pneumothorax?,Existence,No,No,no,False
+a964cfff-3bc5ada3-05f227a0-0ffefa80-e2c39bb6,65.0,Female,White,Is there a pleural effusion?,Existence,No,No,no,True
+a964cfff-3bc5ada3-05f227a0-0ffefa80-e2c39bb6,65.0,Female,White,Is there a pleural effusion?,Existence,No,No,no,False
+fb679e35-c5dd5b3f-49475e2b-0c59e5be-636fdcd1,91.0,Female,White,Are small bilateral pleural effusions present?,Existence,Yes,Yes,yes,True
+fb679e35-c5dd5b3f-49475e2b-0c59e5be-636fdcd1,91.0,Female,White,Are small bilateral pleural effusions present?,Existence,Yes,Yes,yes,False
+f5daedd3-5bad77a0-a0fcfb80-847e6270-7b53ba5f,74.0,Male,White,Is the right-sided chest tube unchanged in position?,Spatial relations,Yes,Yes,yes,True
+f5daedd3-5bad77a0-a0fcfb80-847e6270-7b53ba5f,74.0,Male,White,Is the right-sided chest tube unchanged in position?,Spatial relations,Yes,Yes,yes,False
+f4d45f71-aa1f5f35-09d992e2-dd9a6430-1ca64c36,87.0,Male,White,Is there a left pleural effusion?,Existence,No,No,no,True
+f4d45f71-aa1f5f35-09d992e2-dd9a6430-1ca64c36,87.0,Male,White,Is there a left pleural effusion?,Existence,No,No,no,False
+afe39d3d-8f53bab9-c182f84e-43133325-dfdf8a74,27.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+afe39d3d-8f53bab9-c182f84e-43133325-dfdf8a74,27.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+42688666-805bdec5-f905b200-68541795-3d7bb61a,69.0,Female,White,Does the tip of the accessed right pectoral MediPort project over the low SVC?,Spatial relations,Yes,Yes,yes,True
+42688666-805bdec5-f905b200-68541795-3d7bb61a,69.0,Female,White,Does the tip of the accessed right pectoral MediPort project over the low SVC?,Spatial relations,Yes,Yes,yes,False
+f21b97ab-4c294018-1354f2bf-87393a73-5f2582ac,73.0,Female,White,Is there a pleural effusion?,Existence,No,No,no,True
+f21b97ab-4c294018-1354f2bf-87393a73-5f2582ac,73.0,Female,White,Is there a pleural effusion?,Existence,No,No,no,False
+44c3a532-f14bff77-cd23d561-df9505a0-add25911,69.0,Female,White,Is there a pneumothorax at the cavo-atrial junction?,Spatial relations,No,No,no,True
+44c3a532-f14bff77-cd23d561-df9505a0-add25911,69.0,Female,White,Is there a pneumothorax at the cavo-atrial junction?,Spatial relations,No,No,no,False
+2995e340-13eeb2ef-f2ce775c-4df3cd70-1bb6cd65,71.0,Male,White,Is there a pleural line visualized?,Existence,No,No,no,True
+2995e340-13eeb2ef-f2ce775c-4df3cd70-1bb6cd65,71.0,Male,White,Is there a pleural line visualized?,Existence,No,No,no,False
+3124525f-81e9d100-b53f3df3-20df8d2d-2a4c72eb,67.0,Male,White,Is there an effusion?,Existence,No,No,no,True
+3124525f-81e9d100-b53f3df3-20df8d2d-2a4c72eb,67.0,Male,White,Is there an effusion?,Existence,No,No,no,False
+cfb0dd1e-a76af7e4-0c830639-1c1d64cb-3261f659,84.0,Male,White,Is the left pectoral pacemaker in an unchanged location?,Spatial relations,Yes,Yes,yes,True
+cfb0dd1e-a76af7e4-0c830639-1c1d64cb-3261f659,84.0,Male,White,Is the left pectoral pacemaker in an unchanged location?,Spatial relations,Yes,Yes,yes,False
+07890cc6-eab6d9c3-9faf00bc-09529fca-30ccbf64,32.0,Female,White,Is there a pleural abnormality?,Existence,No,No,no,True
+07890cc6-eab6d9c3-9faf00bc-09529fca-30ccbf64,32.0,Female,White,Is there a pleural abnormality?,Existence,No,No,no,False
+9d0e7517-328d181c-b98f1d41-154969df-970b57e7,47.0,Female,Black,Is the heart size normal?,Spatial relations,Yes,Yes,yes,True
+9d0e7517-328d181c-b98f1d41-154969df-970b57e7,47.0,Female,Black,Is the heart size normal?,Spatial relations,Yes,Yes,yes,False
+6c49ef5b-a77dcb2c-08b102ba-951406ef-a127c7eb,53.0,Female,White,Is there a moderate right-sided pleural effusion?,Existence,Yes,Yes,yes,True
+6c49ef5b-a77dcb2c-08b102ba-951406ef-a127c7eb,53.0,Female,White,Is there a moderate right-sided pleural effusion?,Existence,Yes,Yes,yes,False
+241ee3e7-4294124e-3d746d52-566e93ee-4025f934,72.0,Female,Black,Is the left base atelectasis minimal?,Spatial relations,Yes,Yes,yes,True
+241ee3e7-4294124e-3d746d52-566e93ee-4025f934,72.0,Female,Black,Is the left base atelectasis minimal?,Spatial relations,Yes,Yes,yes,False
+86489e98-4f029d03-436503ee-548fb2f3-ab6b8902,30.0,Female,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+86489e98-4f029d03-436503ee-548fb2f3-ab6b8902,30.0,Female,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+d6bbd093-55aec9c7-a5d0ebfc-b23e8a68-322a34bd,57.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+d6bbd093-55aec9c7-a5d0ebfc-b23e8a68-322a34bd,57.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+60408b02-964714ed-072b02de-bd6cc3a8-f9d3ab56,89.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+60408b02-964714ed-072b02de-bd6cc3a8-f9d3ab56,89.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+241d4ed5-610bd21f-4d67ee0d-735f9a87-59aa1a8e,80.0,Female,Black,Is there a pneumothorax?,Existence,No,No,no,True
+241d4ed5-610bd21f-4d67ee0d-735f9a87-59aa1a8e,80.0,Female,Black,Is there a pneumothorax?,Existence,No,No,no,False
+3108491e-a5423157-55ec183d-d7819a04-3db19bde,84.0,Female,Black,Is there a pneumothorax or pleural effusion?,Existence,No,No,no,True
+3108491e-a5423157-55ec183d-d7819a04-3db19bde,84.0,Female,Black,Is there a pneumothorax or pleural effusion?,Existence,No,No,no,False
+163c0c91-5cf5562c-7c6e22d9-55082a87-1d8eab3a,73.0,Male,White,Is there a pleural effusion?,Existence,No,No,no,True
+163c0c91-5cf5562c-7c6e22d9-55082a87-1d8eab3a,73.0,Male,White,Is there a pleural effusion?,Existence,No,No,no,False
+2d228406-07f4ad83-167e7943-732dc465-0126c4e4,90.0,Female,Black,Are there bilateral pleural effusions suspected?,Existence,Yes,Yes,yes,True
+2d228406-07f4ad83-167e7943-732dc465-0126c4e4,90.0,Female,Black,Are there bilateral pleural effusions suspected?,Existence,Yes,Yes,no,False
+d016ed73-4ba79536-d446069d-77b5bdd4-2187848f,73.0,Male,White,Is there an obvious pneumothorax?,Existence,No,No,no,True
+d016ed73-4ba79536-d446069d-77b5bdd4-2187848f,73.0,Male,White,Is there an obvious pneumothorax?,Existence,No,No,no,False
+5d458ab3-192f8c25-8030e1fe-6be59807-c1767cd5,64.0,Female,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+5d458ab3-192f8c25-8030e1fe-6be59807-c1767cd5,64.0,Female,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+4a9cab1a-ae32ef47-f37873ce-22b7c489-71f0722f,84.0,Male,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,True
+4a9cab1a-ae32ef47-f37873ce-22b7c489-71f0722f,84.0,Male,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,False
+35899083-3ed6a09e-d5f850dd-916686d7-ffe69bf0,63.0,Male,Black,Is the cardiac silhouette stable?,Spatial relations,Yes,Yes,yes,True
+35899083-3ed6a09e-d5f850dd-916686d7-ffe69bf0,63.0,Male,Black,Is the cardiac silhouette stable?,Spatial relations,Yes,Yes,yes,False
+fdf70847-4797a6ba-2e2c25ad-a27549e2-e18b8488,48.0,Female,White,Is the endotracheal tube terminating approximately 3.9 cm above the level of the carina?,Spatial relations,Yes,Yes,yes,True
+fdf70847-4797a6ba-2e2c25ad-a27549e2-e18b8488,48.0,Female,White,Is the endotracheal tube terminating approximately 3.9 cm above the level of the carina?,Spatial relations,Yes,Yes,yes,False
+6b6a341f-d5345f30-ee74c56a-e3fb846e-a7932c22,32.0,Female,White,Is the left lower lung opacities related to pneumonia or mucoid impaction?,Spatial relations,Yes,Yes,yes,True
+6b6a341f-d5345f30-ee74c56a-e3fb846e-a7932c22,32.0,Female,White,Is the left lower lung opacities related to pneumonia or mucoid impaction?,Spatial relations,Yes,Yes,yes,False
+7ce6b4c6-c772ed1d-6f206956-4dc44efc-b374e767,70.0,Male,White,Is there a left lower lung opacity concerning for aspiration pneumonia?,Existence,Yes,Yes,yes,True
+7ce6b4c6-c772ed1d-6f206956-4dc44efc-b374e767,70.0,Male,White,Is there a left lower lung opacity concerning for aspiration pneumonia?,Existence,Yes,Yes,yes,False
+ee1c168d-ff05001c-0c1d5557-61e5bb0a-e48b8d94,56.0,Female,Black,Is an enteric tube identified?,Existence,No,No,no,True
+ee1c168d-ff05001c-0c1d5557-61e5bb0a-e48b8d94,56.0,Female,Black,Is an enteric tube identified?,Existence,No,No,no,False
+69633e37-3a68f26d-5fd23007-825f074c-8a5c1798,72.0,Male,White,Is the Dobhoff tube tip terminating in the stomach?,Spatial relations,Yes,Yes,yes,True
+69633e37-3a68f26d-5fd23007-825f074c-8a5c1798,72.0,Male,White,Is the Dobhoff tube tip terminating in the stomach?,Spatial relations,Yes,Yes,yes,False
+350f7ace-cb4881cb-22067750-ffe339ba-775f8c8b,24.0,Female,White,Is the ET tube unchanged?,Spatial relations,Yes,Yes,yes,True
+350f7ace-cb4881cb-22067750-ffe339ba-775f8c8b,24.0,Female,White,Is the ET tube unchanged?,Spatial relations,Yes,Yes,yes,False
+d79f699a-d0ec37b4-2c9e1860-fea4300b-99606802,55.0,Male,White,Is the right basilar pneumothorax component located at the right basilar region?,Spatial relations,Yes,Yes,yes,True
+d79f699a-d0ec37b4-2c9e1860-fea4300b-99606802,55.0,Male,White,Is the right basilar pneumothorax component located at the right basilar region?,Spatial relations,Yes,Yes,yes,False
+e105d6e9-fdaeedb8-366c888c-20813a4b-a1f17dc2,91.0,Male,White,Is there a large confluent consolidation or significant effusion?,Existence,No,No,no,True
+e105d6e9-fdaeedb8-366c888c-20813a4b-a1f17dc2,91.0,Male,White,Is there a large confluent consolidation or significant effusion?,Existence,No,No,no,False
+254f6ec6-94170a4a-0c72961c-35cb772f-a8a43a4c,25.0,Female,Black,Is the Port-A-Cath catheter in the lower SVC?,Spatial relations,Yes,Yes,yes,True
+254f6ec6-94170a4a-0c72961c-35cb772f-a8a43a4c,25.0,Female,Black,Is the Port-A-Cath catheter in the lower SVC?,Spatial relations,Yes,Yes,no,False
+4ef58089-33924738-6517cc44-fc7ae47f-0c41ecf6,30.0,Female,Black,Does the port catheter terminate in the high right atrium?,Spatial relations,Yes,Yes,yes,True
+4ef58089-33924738-6517cc44-fc7ae47f-0c41ecf6,30.0,Female,Black,Does the port catheter terminate in the high right atrium?,Spatial relations,Yes,Yes,no,False
+ce9a40ed-1c3f8c35-ff3b6b2f-7a27504e-2b1b7ab9,68.0,Male,Black,Is there a pleural effusion?,Existence,No,No,yes,True
+ce9a40ed-1c3f8c35-ff3b6b2f-7a27504e-2b1b7ab9,68.0,Male,Black,Is there a pleural effusion?,Existence,No,No,no,False
+f446fc3b-b2cacdb3-1160b529-01d1f6e9-aaf79130,49.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+f446fc3b-b2cacdb3-1160b529-01d1f6e9-aaf79130,49.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+96146329-3e809ffc-d7ac54c8-136777f1-c811d559,91.0,Female,White,Is there a large pneumothorax?,Existence,No,No,no,True
+96146329-3e809ffc-d7ac54c8-136777f1-c811d559,91.0,Female,White,Is there a large pneumothorax?,Existence,No,No,no,False
+e0c62936-5fddd545-6ab0f37c-5c10bfde-41a15e7e,84.0,Female,White,Is the right internal jugular sheath removed?,Spatial relations,Yes,Yes,yes,True
+e0c62936-5fddd545-6ab0f37c-5c10bfde-41a15e7e,84.0,Female,White,Is the right internal jugular sheath removed?,Spatial relations,Yes,Yes,yes,False
+7e2fef81-f4e5442a-66916023-33399316-1f331ced,68.0,Male,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+7e2fef81-f4e5442a-66916023-33399316-1f331ced,68.0,Male,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+0da40902-e757cdd1-e0be58e7-c043840e-457ff759,48.0,Female,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+0da40902-e757cdd1-e0be58e7-c043840e-457ff759,48.0,Female,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+e08cf895-dce787ce-3f17aa10-a8f08112-bfd17c26,80.0,Female,White,Is the left pleural catheter in place?,Spatial relations,Yes,Yes,yes,True
+e08cf895-dce787ce-3f17aa10-a8f08112-bfd17c26,80.0,Female,White,Is the left pleural catheter in place?,Spatial relations,Yes,Yes,yes,False
+1c17ef06-a1eaafc1-3374992e-d84206af-f1c8d3ce,63.0,Male,White,Are the distended loops of colon visualized in the upper abdomen?,Spatial relations,Yes,Yes,yes,True
+1c17ef06-a1eaafc1-3374992e-d84206af-f1c8d3ce,63.0,Male,White,Are the distended loops of colon visualized in the upper abdomen?,Spatial relations,Yes,Yes,yes,False
+3cb01cc2-19347b54-0d4fef6a-fb960fe0-cdc6b572,71.0,Male,White,Is the opacity seen in the right upper and mid lung zones?,Spatial relations,Yes,Yes,yes,True
+3cb01cc2-19347b54-0d4fef6a-fb960fe0-cdc6b572,71.0,Male,White,Is the opacity seen in the right upper and mid lung zones?,Spatial relations,Yes,Yes,yes,False
+2e08ca06-dc215d36-aa94eaf6-0ed95642-6a8df02b,66.0,Male,White,"Is there a pleural effusion, pulmonary edema, or pneumothorax present?",Existence,No,No,no,True
+2e08ca06-dc215d36-aa94eaf6-0ed95642-6a8df02b,66.0,Male,White,"Is there a pleural effusion, pulmonary edema, or pneumothorax present?",Existence,No,No,no,False
+5dd5d24f-2d5462f9-fa993425-3767cfc7-fa44aa30,91.0,Female,White,Is there compression of two vertebral bodies at the thoracolumbar junction?,Spatial relations,Yes,Yes,yes,True
+5dd5d24f-2d5462f9-fa993425-3767cfc7-fa44aa30,91.0,Female,White,Is there compression of two vertebral bodies at the thoracolumbar junction?,Spatial relations,Yes,Yes,yes,False
+54361f82-55a523d1-026b5084-f66d8204-248bba2b,62.0,Male,White,Is the endotracheal tube terminating in an appropriate position?,Spatial relations,Yes,Yes,yes,True
+54361f82-55a523d1-026b5084-f66d8204-248bba2b,62.0,Male,White,Is the endotracheal tube terminating in an appropriate position?,Spatial relations,Yes,Yes,yes,False
+7a92695e-a3788401-6b753442-245d959f-ab8898b4,68.0,Male,White,Is there substantial left-sided pleural effusion?,Existence,Yes,Yes,yes,True
+7a92695e-a3788401-6b753442-245d959f-ab8898b4,68.0,Male,White,Is there substantial left-sided pleural effusion?,Existence,Yes,Yes,yes,False
+1a673a51-c63f80b0-8c77a19d-8d675e25-de28b5d7,87.0,Female,Asian,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+1a673a51-c63f80b0-8c77a19d-8d675e25-de28b5d7,87.0,Female,Asian,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+5371585f-d8d96df5-f0375884-bfc46e0c-6e246c21,30.0,Female,White,"Is there evidence of focal consolidation, pleural effusion, pneumothorax, or pulmonary edema?",Existence,No,No,no,True
+5371585f-d8d96df5-f0375884-bfc46e0c-6e246c21,30.0,Female,White,"Is there evidence of focal consolidation, pleural effusion, pneumothorax, or pulmonary edema?",Existence,No,No,no,False
+d6275679-e33372f3-467e33ea-b199396e-8fd32708,89.0,Female,White,Is the fluid tracking along the minor fissure?,Spatial relations,Yes,Yes,yes,True
+d6275679-e33372f3-467e33ea-b199396e-8fd32708,89.0,Female,White,Is the fluid tracking along the minor fissure?,Spatial relations,Yes,Yes,yes,False
+5b733e14-d5083701-461bd028-733770ca-80c2e375,49.0,Female,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+5b733e14-d5083701-461bd028-733770ca-80c2e375,49.0,Female,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+83cada44-22eeaa71-e5622be6-dd3eb0ad-9b1ccc68,82.0,Male,White,Is there evidence of right-sided volume loss?,Existence,Yes,Yes,yes,True
+83cada44-22eeaa71-e5622be6-dd3eb0ad-9b1ccc68,82.0,Male,White,Is there evidence of right-sided volume loss?,Existence,Yes,Yes,yes,False
+0b9f09e7-a8f338df-e39573b8-b26c4ed2-865a6428,73.0,Female,Black,Is the heart normal in size?,Spatial relations,Yes,Yes,yes,True
+0b9f09e7-a8f338df-e39573b8-b26c4ed2-865a6428,73.0,Female,Black,Is the heart normal in size?,Spatial relations,Yes,Yes,yes,False
+549f79a1-f4f3b782-22c48857-1ce2765b-4e52936c,68.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+549f79a1-f4f3b782-22c48857-1ce2765b-4e52936c,68.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+c6b914f8-1d886088-47a47682-eb8288f0-4f65f227,82.0,Male,White,Is the dual lead pacemaker unchanged?,Spatial relations,Yes,Yes,yes,True
+c6b914f8-1d886088-47a47682-eb8288f0-4f65f227,82.0,Male,White,Is the dual lead pacemaker unchanged?,Spatial relations,Yes,Yes,yes,False
+a395376c-021c1088-d8e4c957-4b17d408-d1c1ec00,62.0,Female,White,Is the left internal jugular central venous catheter tip in the upper SVC?,Spatial relations,Yes,Yes,yes,True
+a395376c-021c1088-d8e4c957-4b17d408-d1c1ec00,62.0,Female,White,Is the left internal jugular central venous catheter tip in the upper SVC?,Spatial relations,Yes,Yes,yes,False
+e0bca827-485ba6e1-c5cc7111-384a8190-89041d73,45.0,Female,White,Is there a pneumothorax?,Existence,No,No,no,True
+e0bca827-485ba6e1-c5cc7111-384a8190-89041d73,45.0,Female,White,Is there a pneumothorax?,Existence,No,No,no,False
+21315c12-9d91947b-5bf74124-9813bc6b-43233a9f,40.0,Male,White,Is there a pleural effusion or pneumothorax present?,Existence,No,No,no,True
+21315c12-9d91947b-5bf74124-9813bc6b-43233a9f,40.0,Male,White,Is there a pleural effusion or pneumothorax present?,Existence,No,No,no,False
+0a74f8a3-04ebcd35-38f8c324-1fef586d-3ed78f2e,87.0,Male,White,Is a pneumothorax identified?,Existence,No,No,no,True
+0a74f8a3-04ebcd35-38f8c324-1fef586d-3ed78f2e,87.0,Male,White,Is a pneumothorax identified?,Existence,No,No,no,False
+709a9961-f9b5b2db-065bb778-6f708bdc-634c87fc,67.0,Male,White,Is the left costophrenic angle blunted?,Spatial relations,Yes,Yes,yes,True
+709a9961-f9b5b2db-065bb778-6f708bdc-634c87fc,67.0,Male,White,Is the left costophrenic angle blunted?,Spatial relations,Yes,Yes,yes,False
+f1b6bb9c-4310e9e5-774f7ce2-5a6bed00-3b48bfad,45.0,Female,White,Is the left-sided PICC catheter still present?,Spatial relations,No,No,no,True
+f1b6bb9c-4310e9e5-774f7ce2-5a6bed00-3b48bfad,45.0,Female,White,Is the left-sided PICC catheter still present?,Spatial relations,No,No,no,False
+3eaa9efa-236b9588-88af415e-92471ea1-c86468ec,27.0,Female,White,Is there a pleural effusion?,Existence,No,No,no,True
+3eaa9efa-236b9588-88af415e-92471ea1-c86468ec,27.0,Female,White,Is there a pleural effusion?,Existence,No,No,no,False
+dcb82adc-ea04649a-266fe90d-83eb17d4-87809d51,57.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+dcb82adc-ea04649a-266fe90d-83eb17d4-87809d51,57.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+8647dfc7-f422e5b2-2bfcf6b4-43ff8a35-47469efd,67.0,Male,White,Is the left-sided Port-A-Cath unchanged in position?,Spatial relations,Yes,Yes,yes,True
+8647dfc7-f422e5b2-2bfcf6b4-43ff8a35-47469efd,67.0,Male,White,Is the left-sided Port-A-Cath unchanged in position?,Spatial relations,Yes,Yes,yes,False
+38f6ba78-666767f2-046aa5bc-0f5fdbcd-ecb5b1ed,21.0,Male,Asian,Is there a visualized pneumothorax?,Existence,No,No,no,True
+38f6ba78-666767f2-046aa5bc-0f5fdbcd-ecb5b1ed,21.0,Male,Asian,Is there a visualized pneumothorax?,Existence,No,No,no,False
+6953a0bb-d20ceb2f-8bf20dab-fa9dced1-eb3833a0,41.0,Female,White,Is there significant interval change compared to the prior study?,Existence,No,No,no,True
+6953a0bb-d20ceb2f-8bf20dab-fa9dced1-eb3833a0,41.0,Female,White,Is there significant interval change compared to the prior study?,Existence,No,No,yes,False
+3f31146c-de04f633-ced3e3ba-0a7ec7d6-987da9fe,82.0,Male,White,Is there an infiltrate in the left hemidiaphragm region?,Existence,No,No,uncertain,True
+3f31146c-de04f633-ced3e3ba-0a7ec7d6-987da9fe,82.0,Male,White,Is there an infiltrate in the left hemidiaphragm region?,Existence,No,No,uncertain,False
+4766b1c1-998989c8-5cba4b03-20d71054-5202eeb6,74.0,Female,White,Is there a pleural effusion?,Existence,No,No,no,True
+4766b1c1-998989c8-5cba4b03-20d71054-5202eeb6,74.0,Female,White,Is there a pleural effusion?,Existence,No,No,no,False
+4f2f1ff4-2447501c-1a230385-67ba0d24-08c25ade,56.0,Female,White,Is the patient in the upright position during the radiographs?,Spatial relations,Yes,Yes,yes,True
+4f2f1ff4-2447501c-1a230385-67ba0d24-08c25ade,56.0,Female,White,Is the patient in the upright position during the radiographs?,Spatial relations,Yes,Yes,yes,False
+f4d297b1-6cad5e3f-03ba7425-fffa8eab-6015b676,62.0,Male,White,Is the tip of the right IJ Swan-Ganz catheter overlying the proximal right pulmonary artery?,Spatial relations,Yes,Yes,yes,True
+f4d297b1-6cad5e3f-03ba7425-fffa8eab-6015b676,62.0,Male,White,Is the tip of the right IJ Swan-Ganz catheter overlying the proximal right pulmonary artery?,Spatial relations,Yes,Yes,no,False
+8a9080af-ca39212f-a871260d-ed1e4a2b-a6de79ff,92.0,Female,White,Is a pneumothorax detected?,Existence,No,No,no,True
+8a9080af-ca39212f-a871260d-ed1e4a2b-a6de79ff,92.0,Female,White,Is a pneumothorax detected?,Existence,No,No,no,False
+55a73cda-e7f81601-330b7421-a4156630-69ac6890,76.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+55a73cda-e7f81601-330b7421-a4156630-69ac6890,76.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+c4b7fba9-249b0390-40211fbc-30f1bc5e-a3c86103,76.0,Male,Black,Is the posterior basilar opacity seen on the lateral view related to atelectasis?,Spatial relations,Yes,Yes,yes,True
+c4b7fba9-249b0390-40211fbc-30f1bc5e-a3c86103,76.0,Male,Black,Is the posterior basilar opacity seen on the lateral view related to atelectasis?,Spatial relations,Yes,Yes,yes,False
+02aa5778-2553c0b3-de155277-49964d07-4b2c77fa,52.0,Female,White,Is the heart top-normal in size?,Spatial relations,Yes,Yes,yes,True
+02aa5778-2553c0b3-de155277-49964d07-4b2c77fa,52.0,Female,White,Is the heart top-normal in size?,Spatial relations,Yes,Yes,yes,False
+c1b3780b-85b50fd7-c85b4f4e-ded20d57-36cd298d,34.0,Female,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,True
+c1b3780b-85b50fd7-c85b4f4e-ded20d57-36cd298d,34.0,Female,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,False
+8accce68-6a4ff14c-3ae0b40b-237e17c4-ae40010b,80.0,Female,White,Are there trace bilateral pleural effusions?,Existence,Yes,Yes,yes,True
+8accce68-6a4ff14c-3ae0b40b-237e17c4-ae40010b,80.0,Female,White,Are there trace bilateral pleural effusions?,Existence,Yes,Yes,no,False
+e5e52238-678bdb4c-19081993-e90e1bb4-3d4dcf2f,38.0,Female,White,Is there a pleural effusion or pneumothorax present?,Existence,No,No,no,True
+e5e52238-678bdb4c-19081993-e90e1bb4-3d4dcf2f,38.0,Female,White,Is there a pleural effusion or pneumothorax present?,Existence,No,No,no,False
+8dfe93a8-cbfc81a4-b5899aa9-f7433264-9c229e84,66.0,Female,White,Are there bilateral pleural effusions?,Existence,Yes,Yes,yes,True
+8dfe93a8-cbfc81a4-b5899aa9-f7433264-9c229e84,66.0,Female,White,Are there bilateral pleural effusions?,Existence,Yes,Yes,yes,False
+efd29c6f-1e142d5a-a6c85a77-8f9ff2e5-2b5a4b17,74.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+efd29c6f-1e142d5a-a6c85a77-8f9ff2e5-2b5a4b17,74.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+05e9aab2-d7f48fd1-98033be6-f5d9818b-2c2e0231,49.0,Female,White,Is the NG tube terminating at the gastroesophageal junction?,Spatial relations,Yes,Yes,yes,True
+05e9aab2-d7f48fd1-98033be6-f5d9818b-2c2e0231,49.0,Female,White,Is the NG tube terminating at the gastroesophageal junction?,Spatial relations,Yes,Yes,yes,False
+3098df97-9a3f4edf-0495852c-ee1c42fa-17b4148b,65.0,Male,White,Are there persistent bilateral pleural effusions?,Existence,Yes,Yes,yes,True
+3098df97-9a3f4edf-0495852c-ee1c42fa-17b4148b,65.0,Male,White,Are there persistent bilateral pleural effusions?,Existence,Yes,Yes,no,False
+0354e3b9-e4cb5801-2a1e7f2d-13d7d734-801ccbf3,60.0,Female,White,Is there a right-sided Port a cath with tip terminating in at the cavoatrial junction?,Existence,Yes,Yes,yes,True
+0354e3b9-e4cb5801-2a1e7f2d-13d7d734-801ccbf3,60.0,Female,White,Is there a right-sided Port a cath with tip terminating in at the cavoatrial junction?,Existence,Yes,Yes,no,False
+0e3612ae-faf95bc4-e40606a9-d39f91ca-335608bf,88.0,Female,White,Is the right internal jugular central venous line removed?,Spatial relations,Yes,Yes,yes,True
+0e3612ae-faf95bc4-e40606a9-d39f91ca-335608bf,88.0,Female,White,Is the right internal jugular central venous line removed?,Spatial relations,Yes,Yes,yes,False
+fcf45286-ff386afc-bfd9ec4c-2e25fc6c-ebfb6c43,67.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+fcf45286-ff386afc-bfd9ec4c-2e25fc6c-ebfb6c43,67.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+5c46b794-5ac5fa9d-5e9a9093-54f08765-e9e07d2a,41.0,Female,Black,"Is there focal consolidation, pleural effusion, or pneumothorax?",Existence,No,No,no,True
+5c46b794-5ac5fa9d-5e9a9093-54f08765-e9e07d2a,41.0,Female,Black,"Is there focal consolidation, pleural effusion, or pneumothorax?",Existence,No,No,no,False
+7cd0653e-a1a54b77-f62f01d1-2cae2975-1c460777,72.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+7cd0653e-a1a54b77-f62f01d1-2cae2975-1c460777,72.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+e8c7ad49-5a2c64eb-4f4f6d90-aecfd0d9-4d709a26,91.0,Female,White,Is the irregularity of the right anterior ribs indicating subtle rib fractures?,Spatial relations,Yes,Yes,yes,True
+e8c7ad49-5a2c64eb-4f4f6d90-aecfd0d9-4d709a26,91.0,Female,White,Is the irregularity of the right anterior ribs indicating subtle rib fractures?,Spatial relations,Yes,Yes,yes,False
+3cc6e690-d38cadca-b1ea2067-d3f82041-f7a00d3e,80.0,Female,White,Is the cardiac silhouette stable and mildly enlarged?,Spatial relations,Yes,Yes,yes,True
+3cc6e690-d38cadca-b1ea2067-d3f82041-f7a00d3e,80.0,Female,White,Is the cardiac silhouette stable and mildly enlarged?,Spatial relations,Yes,Yes,yes,False
+0d2c5dc7-d0fc9ed5-e7334c9b-e2eabebe-9304b0bf,58.0,Male,Black,"Is there focal consolidation, pleural effusion, or pneumothorax?",Existence,No,No,no,True
+0d2c5dc7-d0fc9ed5-e7334c9b-e2eabebe-9304b0bf,58.0,Male,Black,"Is there focal consolidation, pleural effusion, or pneumothorax?",Existence,No,No,no,False
+86acbcaf-32d6c88a-1ea6e81e-31d8806d-8506bb2b,71.0,Female,White,Is the right apical pneumothorax located at the apex of the right lung?,Spatial relations,Yes,Yes,yes,True
+86acbcaf-32d6c88a-1ea6e81e-31d8806d-8506bb2b,71.0,Female,White,Is the right apical pneumothorax located at the apex of the right lung?,Spatial relations,Yes,Yes,yes,False
+2414e89f-520bf3ff-8352c024-b52c8789-904329da,58.0,Female,White,Are there any foreign radiopaque foreign bodies?,Existence,No,No,no,True
+2414e89f-520bf3ff-8352c024-b52c8789-904329da,58.0,Female,White,Are there any foreign radiopaque foreign bodies?,Existence,No,No,no,False
+e08a4cce-2b78e411-2600bea7-38860312-fb15997b,83.0,Male,White,Is the large bulla noted in the right lung base?,Spatial relations,Yes,Yes,yes,True
+e08a4cce-2b78e411-2600bea7-38860312-fb15997b,83.0,Male,White,Is the large bulla noted in the right lung base?,Spatial relations,Yes,Yes,yes,False
+ac5a7d69-a0516e68-7a7ee3c0-35f073be-f2201595,50.0,Male,White,Is there a specific spatial relation mentioned for the findings?,Spatial relations,No,No,no,True
+ac5a7d69-a0516e68-7a7ee3c0-35f073be-f2201595,50.0,Male,White,Is there a specific spatial relation mentioned for the findings?,Spatial relations,No,No,no,False
+fe04d685-55f8580f-98a8db54-a010c06f-4612bf37,93.0,Female,White,Do the pacer leads extend to the right atrium and right ventricle?,Spatial relations,Yes,Yes,yes,True
+fe04d685-55f8580f-98a8db54-a010c06f-4612bf37,93.0,Female,White,Do the pacer leads extend to the right atrium and right ventricle?,Spatial relations,Yes,Yes,yes,False
+137aa58b-f51cce97-f4f44268-07d97073-b991d246,63.0,Female,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+137aa58b-f51cce97-f4f44268-07d97073-b991d246,63.0,Female,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+23d6601e-f2c963b2-a52d5e84-9cb8ca7f-1e753832,69.0,Male,White,Is the Port-A-Cath tip within the proximal right atrium?,Spatial relations,Yes,Yes,yes,True
+23d6601e-f2c963b2-a52d5e84-9cb8ca7f-1e753832,69.0,Male,White,Is the Port-A-Cath tip within the proximal right atrium?,Spatial relations,Yes,Yes,no,False
+1a3a5b17-93e279b6-2e902aab-7ee698f7-d0d26192,58.0,Male,White,Is the tip of the pacemaker seen in the right antrum and right ventricle?,Spatial relations,Yes,Yes,yes,True
+1a3a5b17-93e279b6-2e902aab-7ee698f7-d0d26192,58.0,Male,White,Is the tip of the pacemaker seen in the right antrum and right ventricle?,Spatial relations,Yes,Yes,yes,False
+ce454d2b-370f351a-1a2d0160-e0192ed2-c2d093bd,65.0,Male,White,Is there a specific location mentioned for the pleural effusion or pneumothorax?,Spatial relations,No,No,no,True
+ce454d2b-370f351a-1a2d0160-e0192ed2-c2d093bd,65.0,Male,White,Is there a specific location mentioned for the pleural effusion or pneumothorax?,Spatial relations,No,No,no,False
+615e2e44-27ba57cf-c652edca-8e65bfbd-4c96c22f,84.0,Female,White,Is there a pleural effusion or pneumothorax demonstrated?,Existence,No,No,no,True
+615e2e44-27ba57cf-c652edca-8e65bfbd-4c96c22f,84.0,Female,White,Is there a pleural effusion or pneumothorax demonstrated?,Existence,No,No,no,False
+01f09f2e-c58f5de0-9331c3a2-7533d8fe-8a0b4043,43.0,Female,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,True
+01f09f2e-c58f5de0-9331c3a2-7533d8fe-8a0b4043,43.0,Female,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,False
+bd828a7c-5c8d8041-233c6a06-2f026b87-5268031b,23.0,Female,Black,Is there a pneumothorax or pleural effusion?,Existence,No,No,no,True
+bd828a7c-5c8d8041-233c6a06-2f026b87-5268031b,23.0,Female,Black,Is there a pneumothorax or pleural effusion?,Existence,No,No,no,False
+64060701-29750772-0507dfaf-e7b23f05-6ddcd00f,88.0,Male,White,"Is there focal consolidation, effusion, or pneumothorax?",Existence,No,No,no,True
+64060701-29750772-0507dfaf-e7b23f05-6ddcd00f,88.0,Male,White,"Is there focal consolidation, effusion, or pneumothorax?",Existence,No,No,no,False
+0c143c25-dd6231ab-e1a381cf-a7e5a2b4-51857cef,66.0,Female,Black,Is lingular scarring best seen on the lateral view?,Spatial relations,Yes,Yes,yes,True
+0c143c25-dd6231ab-e1a381cf-a7e5a2b4-51857cef,66.0,Female,Black,Is lingular scarring best seen on the lateral view?,Spatial relations,Yes,Yes,no,False
+6e052b73-1fb8365f-122901c6-6349b37d-a98cfb13,59.0,Female,White,Is there an acute osseous abnormality?,Existence,No,No,no,True
+6e052b73-1fb8365f-122901c6-6349b37d-a98cfb13,59.0,Female,White,Is there an acute osseous abnormality?,Existence,No,No,no,False
+e3fc19f9-ca6eb962-977a3ead-4ea28976-e50237ac,41.0,Male,White,Is the cardiac silhouette size moderately enlarged?,Spatial relations,Yes,Yes,yes,True
+e3fc19f9-ca6eb962-977a3ead-4ea28976-e50237ac,41.0,Male,White,Is the cardiac silhouette size moderately enlarged?,Spatial relations,Yes,Yes,yes,False
+7f1899b4-b9b42c14-60284205-c1f728c8-a55a5c81,85.0,Male,White,Are there pleural effusions present?,Existence,Yes,Yes,yes,True
+7f1899b4-b9b42c14-60284205-c1f728c8-a55a5c81,85.0,Male,White,Are there pleural effusions present?,Existence,Yes,Yes,no,False
+282496e4-7b1b2706-df58148d-5aba629f-548eba24,65.0,Female,White,"Is there pulmonary edema, pneumonia, or pleural effusion?",Existence,No,No,no,True
+282496e4-7b1b2706-df58148d-5aba629f-548eba24,65.0,Female,White,"Is there pulmonary edema, pneumonia, or pleural effusion?",Existence,No,No,no,False
+1e3ca562-b11dcb92-93e945d4-1b63fbef-e06be5e9,62.0,Female,White,Is the pneumothorax visualized?,Spatial relations,No,No,no,True
+1e3ca562-b11dcb92-93e945d4-1b63fbef-e06be5e9,62.0,Female,White,Is the pneumothorax visualized?,Spatial relations,No,No,no,False
+706e355d-a38118f3-41195b5c-f73127f1-9a40f71a,80.0,Male,White,Is the tip of the left basilar chest tube within the medial aspect of the left hemi thorax?,Spatial relations,Yes,Yes,yes,True
+706e355d-a38118f3-41195b5c-f73127f1-9a40f71a,80.0,Male,White,Is the tip of the left basilar chest tube within the medial aspect of the left hemi thorax?,Spatial relations,Yes,Yes,no,False
+5462d227-01719db3-3eb7b159-7db76c12-268722a3,21.0,Male,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,True
+5462d227-01719db3-3eb7b159-7db76c12-268722a3,21.0,Male,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,False
+f94415fc-ec292986-c097a319-60da97dc-b715e8db,93.0,Male,White,Are there small bilateral pleural effusions?,Existence,Yes,Yes,yes,True
+f94415fc-ec292986-c097a319-60da97dc-b715e8db,93.0,Male,White,Are there small bilateral pleural effusions?,Existence,Yes,Yes,no,False
+1da94f79-cbd62ce7-7869b5d4-eb898d20-68bc2596,63.0,Male,White,Is there a large subpulmonic left pleural effusion?,Existence,Yes,Yes,yes,True
+1da94f79-cbd62ce7-7869b5d4-eb898d20-68bc2596,63.0,Male,White,Is there a large subpulmonic left pleural effusion?,Existence,Yes,Yes,no,False
+8ab11703-8bd5a825-c85db3aa-b135e621-ae244f66,56.0,Female,White,Is the cardiomediastinal silhouette unchanged?,Spatial relations,Yes,Yes,yes,True
+8ab11703-8bd5a825-c85db3aa-b135e621-ae244f66,56.0,Female,White,Is the cardiomediastinal silhouette unchanged?,Spatial relations,Yes,Yes,yes,False
+d8a0a404-b7012571-4c7b878b-46561ec0-aae35f33,81.0,Male,White,Is there a pleural effusion identified?,Existence,No,No,no,True
+d8a0a404-b7012571-4c7b878b-46561ec0-aae35f33,81.0,Male,White,Is there a pleural effusion identified?,Existence,No,No,no,False
+dd8e0a2e-ec42cf5c-206ebc4a-26e80a2c-f47ba0c9,84.0,Male,Black,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,True
+dd8e0a2e-ec42cf5c-206ebc4a-26e80a2c-f47ba0c9,84.0,Male,Black,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,False
+d90a2762-6f37b81a-ffa789d2-d39e7a5a-b8476c32,50.0,Male,White,Is the retrocardiac opacity related to the left pleural effusion?,Spatial relations,Yes,Yes,yes,True
+d90a2762-6f37b81a-ffa789d2-d39e7a5a-b8476c32,50.0,Male,White,Is the retrocardiac opacity related to the left pleural effusion?,Spatial relations,Yes,Yes,yes,False
+5136480a-e8c7f982-849e2bb2-c1857644-1262ce73,53.0,Male,White,"Is there a pneumothorax, fracture, or dislocation?",Existence,No,No,no,True
+5136480a-e8c7f982-849e2bb2-c1857644-1262ce73,53.0,Male,White,"Is there a pneumothorax, fracture, or dislocation?",Existence,No,No,no,False
+ee95f689-4f773777-460728ac-a6d058a8-ee02e58b,64.0,Male,Black,Is the right-sided dialysis catheter still present?,Spatial relations,No,No,no,True
+ee95f689-4f773777-460728ac-a6d058a8-ee02e58b,64.0,Male,Black,Is the right-sided dialysis catheter still present?,Spatial relations,No,No,no,False
+f13df90f-dfe4ee5a-f60278dd-21a4d0e5-d9addfc0,70.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+f13df90f-dfe4ee5a-f60278dd-21a4d0e5-d9addfc0,70.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+78b25180-ff33317d-92a10132-dffdc0b1-e7234a43,74.0,Female,Black,Does the Port-A-Cath terminate in the right atrium?,Spatial relations,Yes,Yes,yes,True
+78b25180-ff33317d-92a10132-dffdc0b1-e7234a43,74.0,Female,Black,Does the Port-A-Cath terminate in the right atrium?,Spatial relations,Yes,Yes,yes,False
+771b922e-a56f4033-ad2f36e6-34e0fc43-e0456bb6,84.0,Male,Black,Is there any information about the spatial relations of the heart size?,Spatial relations,No,No,no,True
+771b922e-a56f4033-ad2f36e6-34e0fc43-e0456bb6,84.0,Male,Black,Is there any information about the spatial relations of the heart size?,Spatial relations,No,No,no,False
+6ac3b038-f8c5495c-ea2ef1de-1ea8afb6-3f4a16b5,84.0,Male,White,Are there small bilateral effusions?,Existence,Yes,Yes,yes,True
+6ac3b038-f8c5495c-ea2ef1de-1ea8afb6-3f4a16b5,84.0,Male,White,Are there small bilateral effusions?,Existence,Yes,Yes,yes,False
+fae46cdc-38e8c58c-9ee549bf-ad029308-6541f2f7,63.0,Female,Black,Is there a large effusion or pneumothorax?,Existence,No,No,no,True
+fae46cdc-38e8c58c-9ee549bf-ad029308-6541f2f7,63.0,Female,Black,Is there a large effusion or pneumothorax?,Existence,No,No,no,False
+84944067-3a1e3bca-9ea44c09-274020e9-c7cd5296,80.0,Female,White,Is there a pleural effusion or consolidation seen?,Existence,No,No,no,True
+84944067-3a1e3bca-9ea44c09-274020e9-c7cd5296,80.0,Female,White,Is there a pleural effusion or consolidation seen?,Existence,No,No,no,False
+2b9d6438-d4549d50-64eabcc2-0159f860-4702ea69,56.0,Male,White,Is there a pleural effusion?,Existence,No,No,no,True
+2b9d6438-d4549d50-64eabcc2-0159f860-4702ea69,56.0,Male,White,Is there a pleural effusion?,Existence,No,No,no,False
+73460c2f-f02f5313-6906ff79-104d873e-01c7df3f,66.0,Female,White,Is the NG tube tip at the GE junction?,Spatial relations,Yes,Yes,yes,True
+73460c2f-f02f5313-6906ff79-104d873e-01c7df3f,66.0,Female,White,Is the NG tube tip at the GE junction?,Spatial relations,Yes,Yes,yes,False
+65fa32f0-5c5da225-2b4e7830-66a3bf93-f7e3506f,44.0,Male,White,Is there a pleural effusion seen?,Existence,No,No,no,True
+65fa32f0-5c5da225-2b4e7830-66a3bf93-f7e3506f,44.0,Male,White,Is there a pleural effusion seen?,Existence,No,No,no,False
+a7499fb3-454d2322-196e88fd-a7b651c6-f080b192,42.0,Female,White,Is there a specific spatial relation mentioned for the cardiac size?,Spatial relations,No,No,no,True
+a7499fb3-454d2322-196e88fd-a7b651c6-f080b192,42.0,Female,White,Is there a specific spatial relation mentioned for the cardiac size?,Spatial relations,No,No,no,False
+a3bea883-32be0b78-f2710179-05ce1020-2f3d715b,88.0,Male,White,Is there a pneumothorax identified?,Existence,No,No,no,True
+a3bea883-32be0b78-f2710179-05ce1020-2f3d715b,88.0,Male,White,Is there a pneumothorax identified?,Existence,No,No,no,False
+bdcd3059-616ada1b-9385cc80-074a29f2-1c93d850,47.0,Female,Black,Is the cardiomediastinal silhouette within normal limits?,Spatial relations,Yes,Yes,yes,True
+bdcd3059-616ada1b-9385cc80-074a29f2-1c93d850,47.0,Female,Black,Is the cardiomediastinal silhouette within normal limits?,Spatial relations,Yes,Yes,yes,False
+5a659d62-2cf2b1cc-85e6e366-31c39937-24c635a4,62.0,Male,White,Is there a pleural effusion?,Existence,Yes,Yes,yes,True
+5a659d62-2cf2b1cc-85e6e366-31c39937-24c635a4,62.0,Male,White,Is there a pleural effusion?,Existence,Yes,Yes,yes,False
+949edf04-54f6ca5f-02fb101e-9ad8cc43-0906b4df,86.0,Female,White,Is there an effusion?,Existence,No,No,no,True
+949edf04-54f6ca5f-02fb101e-9ad8cc43-0906b4df,86.0,Female,White,Is there an effusion?,Existence,No,No,no,False
+0946e43a-cbf1f7ab-ecdfde6c-324ac496-c7241edd,72.0,Male,White,Is there evidence of large pleural effusion?,Existence,No,No,no,True
+0946e43a-cbf1f7ab-ecdfde6c-324ac496-c7241edd,72.0,Male,White,Is there evidence of large pleural effusion?,Existence,No,No,no,False
+04b5d8fb-f7548fe1-6379aa7e-52504005-22004992,76.0,Male,White,Is there a large pleural effusion or pneumothorax detected?,Existence,No,No,no,True
+04b5d8fb-f7548fe1-6379aa7e-52504005-22004992,76.0,Male,White,Is there a large pleural effusion or pneumothorax detected?,Existence,No,No,no,False
+19e5b97e-dc66207a-78a5ee3e-fff3c67d-6301e493,77.0,Male,White,Is the aortic knob where atherosclerotic calcifications are noted?,Spatial relations,Yes,Yes,yes,True
+19e5b97e-dc66207a-78a5ee3e-fff3c67d-6301e493,77.0,Male,White,Is the aortic knob where atherosclerotic calcifications are noted?,Spatial relations,Yes,Yes,yes,False
+2673fa17-0c014685-7d59b3d0-57867250-ba9a0a14,73.0,Male,White,Is there an effusion or pneumothorax?,Existence,No,No,no,True
+2673fa17-0c014685-7d59b3d0-57867250-ba9a0a14,73.0,Male,White,Is there an effusion or pneumothorax?,Existence,No,No,no,False
+7087fbb8-6b367647-762d778b-a0458247-6fdb8640,91.0,Male,White,Is the PICC line tip in a previously identified position?,Spatial relations,Yes,Yes,yes,True
+7087fbb8-6b367647-762d778b-a0458247-6fdb8640,91.0,Male,White,Is the PICC line tip in a previously identified position?,Spatial relations,Yes,Yes,yes,False
+88aac4f3-d7dc3810-6ffed23b-a6cafdb7-9d24f040,76.0,Male,White,Does the right central venous line tip terminate in the right atrium?,Spatial relations,Yes,Yes,yes,True
+88aac4f3-d7dc3810-6ffed23b-a6cafdb7-9d24f040,76.0,Male,White,Does the right central venous line tip terminate in the right atrium?,Spatial relations,Yes,Yes,no,False
+c4b4e4b1-cd889282-9d274a2a-19d2af25-45de71b1,97.0,Male,White,Is there a large effusion or pneumothorax?,Existence,No,No,no,True
+c4b4e4b1-cd889282-9d274a2a-19d2af25-45de71b1,97.0,Male,White,Is there a large effusion or pneumothorax?,Existence,No,No,no,False
+31509894-8d916ade-1f646277-c502222d-9be2f1de,71.0,Female,White,Is the right chest wall dual lead pacing device noted?,Spatial relations,Yes,Yes,yes,True
+31509894-8d916ade-1f646277-c502222d-9be2f1de,71.0,Female,White,Is the right chest wall dual lead pacing device noted?,Spatial relations,Yes,Yes,no,False
+b8587453-b8f7fa95-0b54c356-b108d008-307f64f8,60.0,Male,White,Is there a pleural effusion?,Existence,No,No,no,True
+b8587453-b8f7fa95-0b54c356-b108d008-307f64f8,60.0,Male,White,Is there a pleural effusion?,Existence,No,No,yes,False
+47577895-66aea04a-b0dfedee-f65cf671-d30b5032,70.0,Male,White,Is the right pleural drain and right subclavian line in stable position?,Spatial relations,Yes,Yes,yes,True
+47577895-66aea04a-b0dfedee-f65cf671-d30b5032,70.0,Male,White,Is the right pleural drain and right subclavian line in stable position?,Spatial relations,Yes,Yes,yes,False
+5141becd-2e4528f4-5fc4481d-6db5a08f-e3fa09f0,49.0,Female,Black,Is there a specific spatial relation mentioned for the mediastinal silhouette?,Spatial relations,No,No,no,True
+5141becd-2e4528f4-5fc4481d-6db5a08f-e3fa09f0,49.0,Female,Black,Is there a specific spatial relation mentioned for the mediastinal silhouette?,Spatial relations,No,No,no,False
+d5754f69-c17a1d3a-4f579084-4f89f8ad-110d4526,22.0,Male,White,"Is there a pleural effusion, pneumothorax, or focal airspace consolidation?",Existence,No,No,no,True
+d5754f69-c17a1d3a-4f579084-4f89f8ad-110d4526,22.0,Male,White,"Is there a pleural effusion, pneumothorax, or focal airspace consolidation?",Existence,No,No,no,False
+75a25c5d-ef36ea7d-b426c28f-de5e907e-25e9bc44,73.0,Female,White,Is the SVC stent unchanged in position?,Spatial relations,Yes,Yes,yes,True
+75a25c5d-ef36ea7d-b426c28f-de5e907e-25e9bc44,73.0,Female,White,Is the SVC stent unchanged in position?,Spatial relations,Yes,Yes,yes,False
+d62e0328-75e61cdf-354d9e9a-da3f0c97-6c7c8043,68.0,Male,Black,Is there a large pleural effusion identified?,Existence,No,No,no,True
+d62e0328-75e61cdf-354d9e9a-da3f0c97-6c7c8043,68.0,Male,Black,Is there a large pleural effusion identified?,Existence,No,No,no,False
+4d0c5345-a350d264-d6455294-15138a93-74c848a1,89.0,Female,Black,"Is there focal consolidation, effusion, or pneumothorax?",Existence,No,No,no,True
+4d0c5345-a350d264-d6455294-15138a93-74c848a1,89.0,Female,Black,"Is there focal consolidation, effusion, or pneumothorax?",Existence,No,No,no,False
+100611d7-4840d908-cbc3cd16-a1dd6c95-2f66480a,74.0,Male,White,Is there evidence of pleural abnormalities?,Existence,No,No,no,True
+100611d7-4840d908-cbc3cd16-a1dd6c95-2f66480a,74.0,Male,White,Is there evidence of pleural abnormalities?,Existence,No,No,no,False
+6ec12c55-9fc602bc-64e4798a-a4c6b701-51935654,68.0,Male,White,Is the enteric tube inserted below the diaphragm and into the upper stomach?,Spatial relations,Yes,Yes,yes,True
+6ec12c55-9fc602bc-64e4798a-a4c6b701-51935654,68.0,Male,White,Is the enteric tube inserted below the diaphragm and into the upper stomach?,Spatial relations,Yes,Yes,yes,False
+d4f0d97c-72567146-ee0487ff-a3d1cc6f-78099694,75.0,Female,Black,Is there a large pleural effusion?,Existence,No,No,no,True
+d4f0d97c-72567146-ee0487ff-a3d1cc6f-78099694,75.0,Female,Black,Is there a large pleural effusion?,Existence,No,No,no,False
+4dec762b-61bfbf79-f92e5f31-277187ef-2f9aaa5f,89.0,Female,White,Is the opacity projecting over the lower thoracic spine indicative of left lower lobe pneumonia?,Spatial relations,Yes,Yes,yes,True
+4dec762b-61bfbf79-f92e5f31-277187ef-2f9aaa5f,89.0,Female,White,Is the opacity projecting over the lower thoracic spine indicative of left lower lobe pneumonia?,Spatial relations,Yes,Yes,yes,False
+5c130c72-8f28b0c6-05343f12-961f8df5-b309644e,86.0,Male,White,Is there an acute cardiopulmonary process?,Existence,No,No,no,True
+5c130c72-8f28b0c6-05343f12-961f8df5-b309644e,86.0,Male,White,Is there an acute cardiopulmonary process?,Existence,No,No,no,False
+8114b00a-15b3c1d0-ec479e80-84285c93-bdb33332,61.0,Male,White,Is there consolidation worrisome for pneumonia?,Existence,No,No,no,True
+8114b00a-15b3c1d0-ec479e80-84285c93-bdb33332,61.0,Male,White,Is there consolidation worrisome for pneumonia?,Existence,No,No,no,False
+6f5ebe67-fd31f42c-da5800a7-87cbe2d7-c3c95aaf,80.0,Female,White,Is there a new focal region of consolidation?,Existence,No,No,no,True
+6f5ebe67-fd31f42c-da5800a7-87cbe2d7-c3c95aaf,80.0,Female,White,Is there a new focal region of consolidation?,Existence,No,No,no,False
+ab1476a9-6867f450-2865c7fc-555c2a16-1bc6f19e,58.0,Male,White,Are median sternotomy wires and mediastinal clips noted?,Spatial relations,Yes,Yes,yes,True
+ab1476a9-6867f450-2865c7fc-555c2a16-1bc6f19e,58.0,Male,White,Are median sternotomy wires and mediastinal clips noted?,Spatial relations,Yes,Yes,yes,False
+66b0a1a1-b8764b12-31766851-8a769cbe-bcf8546e,68.0,Male,White,Is there any mention of the position of the sternotomy wires?,Spatial relations,No,No,yes,True
+66b0a1a1-b8764b12-31766851-8a769cbe-bcf8546e,68.0,Male,White,Is there any mention of the position of the sternotomy wires?,Spatial relations,No,No,yes,False
+7f0e4fde-b0986490-3fbaaae0-4878a32f-700fae0f,58.0,Female,White,Is the left retrocardiac area worse from the prior exam?,Spatial relations,Yes,Yes,yes,True
+7f0e4fde-b0986490-3fbaaae0-4878a32f-700fae0f,58.0,Female,White,Is the left retrocardiac area worse from the prior exam?,Spatial relations,Yes,Yes,yes,False
+3243db60-09d5f21d-11942473-c19a740b-c91a7cd2,70.0,Male,White,Is the tip of the Dobbhoff feeding tube over the left upper quadrant?,Spatial relations,Yes,Yes,yes,True
+3243db60-09d5f21d-11942473-c19a740b-c91a7cd2,70.0,Male,White,Is the tip of the Dobbhoff feeding tube over the left upper quadrant?,Spatial relations,Yes,Yes,no,False
+2ad49764-bead8e26-e205aca4-415e07cf-dd9d91f9,89.0,Male,White,Is the large right apical pneumothorax unchanged in position?,Spatial relations,Yes,Yes,yes,True
+2ad49764-bead8e26-e205aca4-415e07cf-dd9d91f9,89.0,Male,White,Is the large right apical pneumothorax unchanged in position?,Spatial relations,Yes,Yes,yes,False
+5f5b250b-0413a39d-6cd5d927-6d083eaa-5de5c71e,71.0,Male,White,Is the aortic knob calcification mild?,Spatial relations,Yes,Yes,yes,True
+5f5b250b-0413a39d-6cd5d927-6d083eaa-5de5c71e,71.0,Male,White,Is the aortic knob calcification mild?,Spatial relations,Yes,Yes,yes,False
+3d4279ba-fede998f-a716ec1f-06d0a607-e42a0eb5,54.0,Female,White,Is there a pneumothorax or pleural effusion?,Existence,No,No,no,True
+3d4279ba-fede998f-a716ec1f-06d0a607-e42a0eb5,54.0,Female,White,Is there a pneumothorax or pleural effusion?,Existence,No,No,no,False
+7cdb1158-1052fb68-8586e042-467dfa45-4715d71c,74.0,Female,Black,Is the endotracheal tube above the carina?,Spatial relations,Yes,Yes,yes,True
+7cdb1158-1052fb68-8586e042-467dfa45-4715d71c,74.0,Female,Black,Is the endotracheal tube above the carina?,Spatial relations,Yes,Yes,no,False
+8d2f6fe6-68da92c5-eb421231-73fd7143-e2b50fff,70.0,Female,White,Is there a large right pleural effusion?,Existence,Yes,Yes,yes,True
+8d2f6fe6-68da92c5-eb421231-73fd7143-e2b50fff,70.0,Female,White,Is there a large right pleural effusion?,Existence,Yes,Yes,no,False
+f9610dc3-1caecc35-6a7e1b45-8aea6af1-b01e0331,91.0,Female,White,Is the opacity at the right cardiophrenic angle representing prominent pericardial fat?,Spatial relations,Yes,Yes,yes,True
+f9610dc3-1caecc35-6a7e1b45-8aea6af1-b01e0331,91.0,Female,White,Is the opacity at the right cardiophrenic angle representing prominent pericardial fat?,Spatial relations,Yes,Yes,yes,False
+997e740c-7813b5c0-d52e5466-14dc4ca7-79b11208,70.0,Male,White,Is the Dobbhoff tube terminating in the proximal stomach?,Spatial relations,Yes,Yes,yes,True
+997e740c-7813b5c0-d52e5466-14dc4ca7-79b11208,70.0,Male,White,Is the Dobbhoff tube terminating in the proximal stomach?,Spatial relations,Yes,Yes,yes,False
+e6d342d3-f3e046ad-cbc448d5-fb73294a-6b6111e5,87.0,Female,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,True
+e6d342d3-f3e046ad-cbc448d5-fb73294a-6b6111e5,87.0,Female,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,False
+f171a2e9-183f03f0-745101a7-ef5f5b78-be64cb3e,46.0,Male,Black,Is the left effusion better due to erect positioning?,Spatial relations,Yes,Yes,yes,True
+f171a2e9-183f03f0-745101a7-ef5f5b78-be64cb3e,46.0,Male,Black,Is the left effusion better due to erect positioning?,Spatial relations,Yes,Yes,yes,False
+c0e03778-600402e8-83bef333-c5c0088b-825aca8d,88.0,Female,Black,"Is there confluent consolidation, effusion, or overt pulmonary edema?",Existence,No,No,no,True
+c0e03778-600402e8-83bef333-c5c0088b-825aca8d,88.0,Female,Black,"Is there confluent consolidation, effusion, or overt pulmonary edema?",Existence,No,No,no,False
+35d4e7bc-4d2414ec-86080f42-41d9b9fc-d0ab5360,24.0,Female,White,Is the tip of the endotracheal tube above the carina?,Spatial relations,Yes,Yes,yes,True
+35d4e7bc-4d2414ec-86080f42-41d9b9fc-d0ab5360,24.0,Female,White,Is the tip of the endotracheal tube above the carina?,Spatial relations,Yes,Yes,no,False
+d28d6749-857a1672-a3dae17a-f94e4f6f-b1f30aff,47.0,Male,White,Does the endotracheal tube terminate above the carina?,Spatial relations,Yes,Yes,yes,True
+d28d6749-857a1672-a3dae17a-f94e4f6f-b1f30aff,47.0,Male,White,Does the endotracheal tube terminate above the carina?,Spatial relations,Yes,Yes,yes,False
+13e54c81-cb9495b1-7e0d5e0e-60d8854e-63fff3c7,65.0,Female,White,Is there a large pleural effusion or pneumothorax?,Existence,No,No,no,True
+13e54c81-cb9495b1-7e0d5e0e-60d8854e-63fff3c7,65.0,Female,White,Is there a large pleural effusion or pneumothorax?,Existence,No,No,no,False
+499b08f0-eadc74b7-e72cbb9c-48acb229-95d39e5f,63.0,Female,White,"Is there a specific spatial relation mentioned regarding the cardiac, hilar, or mediastinal contours?",Spatial relations,No,No,no,True
+499b08f0-eadc74b7-e72cbb9c-48acb229-95d39e5f,63.0,Female,White,"Is there a specific spatial relation mentioned regarding the cardiac, hilar, or mediastinal contours?",Spatial relations,No,No,no,False
+770d28da-e708c023-f576b60d-1a65d8f0-3f017d4c,68.0,Male,White,Is there a large pleural effusion?,Existence,No,No,no,True
+770d28da-e708c023-f576b60d-1a65d8f0-3f017d4c,68.0,Male,White,Is there a large pleural effusion?,Existence,No,No,no,False
+032d7467-2181756f-a433ece1-40b80440-6507fc7c,72.0,Female,White,Is the azygos vein dilated?,Spatial relations,Yes,Yes,yes,True
+032d7467-2181756f-a433ece1-40b80440-6507fc7c,72.0,Female,White,Is the azygos vein dilated?,Spatial relations,Yes,Yes,yes,False
+0ade20fb-a0dbc9d5-f57f5775-b126b8eb-c52f65c8,67.0,Male,White,Is there bilateral effusion?,Existence,Yes,Yes,yes,True
+0ade20fb-a0dbc9d5-f57f5775-b126b8eb-c52f65c8,67.0,Male,White,Is there bilateral effusion?,Existence,Yes,Yes,yes,False
+bc3b926d-4133a2c5-0e9592ca-23eb8c56-92673238,64.0,Female,White,Is there a pneumothorax seen?,Existence,No,No,no,True
+bc3b926d-4133a2c5-0e9592ca-23eb8c56-92673238,64.0,Female,White,Is there a pneumothorax seen?,Existence,No,No,no,False
+8c32ce73-53b456ba-81487dbc-3fd0a3ea-3204a880,46.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+8c32ce73-53b456ba-81487dbc-3fd0a3ea-3204a880,46.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+6c3dd330-3a846a53-005be6de-e820967c-a467d503,55.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+6c3dd330-3a846a53-005be6de-e820967c-a467d503,55.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+8d6d1c98-d3f50008-50ecccac-6302f804-72ad7a9e,51.0,Female,Black,Is there a pleural effusion?,Existence,No,No,no,True
+8d6d1c98-d3f50008-50ecccac-6302f804-72ad7a9e,51.0,Female,Black,Is there a pleural effusion?,Existence,No,No,no,False
+60eb66a8-57c6518a-ca933e38-41256955-2998c15f,52.0,Male,White,Does the biliary stent project over the right upper quadrant?,Spatial relations,Yes,Yes,yes,True
+60eb66a8-57c6518a-ca933e38-41256955-2998c15f,52.0,Male,White,Does the biliary stent project over the right upper quadrant?,Spatial relations,Yes,Yes,no,False
+14eb9c82-c7e30dcd-135a5e0a-da11f01d-040d8beb,83.0,Male,White,Is there opacity at the left costophrenic angle?,Spatial relations,Yes,Yes,yes,True
+14eb9c82-c7e30dcd-135a5e0a-da11f01d-040d8beb,83.0,Male,White,Is there opacity at the left costophrenic angle?,Spatial relations,Yes,Yes,yes,False
+6f2c5b3e-96f3688e-24bfdc4d-df5b467b-d31cfe1a,81.0,Female,White,Is the left chest wall AICD in place?,Spatial relations,Yes,Yes,yes,True
+6f2c5b3e-96f3688e-24bfdc4d-df5b467b-d31cfe1a,81.0,Female,White,Is the left chest wall AICD in place?,Spatial relations,Yes,Yes,yes,False
+5f09fcc6-2f2a4cdc-271d8dd1-7cd7b907-50d0442c,65.0,Female,White,Is there a displaced rib fracture?,Spatial relations,No,No,no,True
+5f09fcc6-2f2a4cdc-271d8dd1-7cd7b907-50d0442c,65.0,Female,White,Is there a displaced rib fracture?,Spatial relations,No,No,no,False
+dff3833b-5051496e-09174448-deda4360-74420185,60.0,Male,Black,Is the Port-A-Cath terminating in the low SVC?,Spatial relations,Yes,Yes,yes,True
+dff3833b-5051496e-09174448-deda4360-74420185,60.0,Male,Black,Is the Port-A-Cath terminating in the low SVC?,Spatial relations,Yes,Yes,yes,False
+696de96b-9f3f9739-241dcbfb-b05d6bc8-97bfee0e,80.0,Male,White,Is the tip of the right internal jugular venous central line in the low SVC?,Spatial relations,Yes,Yes,yes,True
+696de96b-9f3f9739-241dcbfb-b05d6bc8-97bfee0e,80.0,Male,White,Is the tip of the right internal jugular venous central line in the low SVC?,Spatial relations,Yes,Yes,no,False
+b1e8c66a-5c9637b6-c56c1afa-c89cb39c-2562e235,69.0,Male,White,Is there pulmonary edema?,Existence,No,No,no,True
+b1e8c66a-5c9637b6-c56c1afa-c89cb39c-2562e235,69.0,Male,White,Is there pulmonary edema?,Existence,No,No,no,False
+ef67f402-f3f1e6cd-db477044-1dfc41d6-82240692,84.0,Female,White,Is the left small pleural effusion related to a more upright position?,Spatial relations,Yes,Yes,yes,True
+ef67f402-f3f1e6cd-db477044-1dfc41d6-82240692,84.0,Female,White,Is the left small pleural effusion related to a more upright position?,Spatial relations,Yes,Yes,yes,False
+76fbef95-ac5538f3-71a21aa9-cb24b403-d80ae2d8,30.0,Female,White,Is the cardiac silhouette enlarged?,Spatial relations,No,No,no,True
+76fbef95-ac5538f3-71a21aa9-cb24b403-d80ae2d8,30.0,Female,White,Is the cardiac silhouette enlarged?,Spatial relations,No,No,no,False
+2fba5416-7087d093-c5a2644b-bfbd0d85-0c9a91c1,55.0,Male,White,Is the tip of the PICC line at the cavoatrial junction?,Spatial relations,Yes,Yes,yes,True
+2fba5416-7087d093-c5a2644b-bfbd0d85-0c9a91c1,55.0,Male,White,Is the tip of the PICC line at the cavoatrial junction?,Spatial relations,Yes,Yes,yes,False
+494f08ba-e5a03185-27cfaa5c-6e391db5-1bbb7bfc,57.0,Female,Black,Is there a pleural effusion?,Existence,No,No,no,True
+494f08ba-e5a03185-27cfaa5c-6e391db5-1bbb7bfc,57.0,Female,Black,Is there a pleural effusion?,Existence,No,No,no,False
+936b321f-32f8ebd2-657471b0-6d3f9dde-16eca6c1,72.0,Male,Black,Is there a pleural effusion?,Existence,No,No,no,True
+936b321f-32f8ebd2-657471b0-6d3f9dde-16eca6c1,72.0,Male,Black,Is there a pleural effusion?,Existence,No,No,no,False
+7877dd8c-74ad0e03-85d33418-7929d0af-fd76b9cb,31.0,Female,Black,"Is there a focal consolidation, pleural effusion, or pneumothorax?",Existence,No,No,no,True
+7877dd8c-74ad0e03-85d33418-7929d0af-fd76b9cb,31.0,Female,Black,"Is there a focal consolidation, pleural effusion, or pneumothorax?",Existence,No,No,no,False
+8889b826-2cbe161a-fb6cf6ee-bdbd11f7-a1565695,47.0,Male,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+8889b826-2cbe161a-fb6cf6ee-bdbd11f7-a1565695,47.0,Male,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+b16100a8-1dc8ca21-e018738c-bcd7d464-5d4a7dc5,29.0,Male,White,Are there pleural abnormalities?,Existence,No,No,no,True
+b16100a8-1dc8ca21-e018738c-bcd7d464-5d4a7dc5,29.0,Male,White,Are there pleural abnormalities?,Existence,No,No,no,False
+a82f8751-b5a68979-854e3528-b76679c7-4bd48892,44.0,Female,White,Is there a pneumothorax or pleural effusion?,Existence,No,No,no,True
+a82f8751-b5a68979-854e3528-b76679c7-4bd48892,44.0,Female,White,Is there a pneumothorax or pleural effusion?,Existence,No,No,no,False
+213e119b-b47aec04-851cbd44-39ad01c3-caf43178,74.0,Female,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+213e119b-b47aec04-851cbd44-39ad01c3-caf43178,74.0,Female,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+6aa472a4-53bb407b-8427c142-7ff4203d-a2eb6425,88.0,Male,White,Is there a pleural effusion or pneumothorax present?,Existence,No,No,no,True
+6aa472a4-53bb407b-8427c142-7ff4203d-a2eb6425,88.0,Male,White,Is there a pleural effusion or pneumothorax present?,Existence,No,No,no,False
+ee9e9657-6fdf4af7-ca7f0d4b-54e4fac8-b8a05c87,93.0,Female,White,Are there small bilateral pleural effusions?,Existence,Yes,Yes,yes,True
+ee9e9657-6fdf4af7-ca7f0d4b-54e4fac8-b8a05c87,93.0,Female,White,Are there small bilateral pleural effusions?,Existence,Yes,Yes,yes,False
+9e450f22-96ab9742-9372fd63-76adc15b-43a38705,57.0,Female,White,Is there an air-filled balloon identified along the expected course of the esophagus?,Existence,No,No,no,True
+9e450f22-96ab9742-9372fd63-76adc15b-43a38705,57.0,Female,White,Is there an air-filled balloon identified along the expected course of the esophagus?,Existence,No,No,yes,False
+ea36b905-e6c202a7-c46e3dd5-d2b64dd8-f7964e89,71.0,Female,Black,Is there a pleural effusion on the left side?,Existence,Yes,Yes,yes,True
+ea36b905-e6c202a7-c46e3dd5-d2b64dd8-f7964e89,71.0,Female,Black,Is there a pleural effusion on the left side?,Existence,Yes,Yes,yes,False
+89ccce4a-05c2e124-6aa4c9f8-46069b48-0c591b8b,64.0,Male,White,Are there pleural effusions?,Existence,Yes,Yes,yes,True
+89ccce4a-05c2e124-6aa4c9f8-46069b48-0c591b8b,64.0,Male,White,Are there pleural effusions?,Existence,Yes,Yes,yes,False
+7239cbad-bceae15d-a1c96ec4-66f22b90-445cc158,78.0,Male,White,Is there a gross effusion?,Existence,No,No,no,True
+7239cbad-bceae15d-a1c96ec4-66f22b90-445cc158,78.0,Male,White,Is there a gross effusion?,Existence,No,No,no,False
+ed076af6-224b1c44-f9084d58-4cac6ec7-582f59ec,79.0,Male,White,Are small bilateral pleural effusions present?,Existence,Yes,Yes,yes,True
+ed076af6-224b1c44-f9084d58-4cac6ec7-582f59ec,79.0,Male,White,Are small bilateral pleural effusions present?,Existence,Yes,Yes,yes,False
+0c1edaa7-7a50cd34-32414c57-79323bf5-2746c535,39.0,Male,White,Is the cardiomediastinal silhouette normal?,Spatial relations,Yes,Yes,yes,True
+0c1edaa7-7a50cd34-32414c57-79323bf5-2746c535,39.0,Male,White,Is the cardiomediastinal silhouette normal?,Spatial relations,Yes,Yes,yes,False
+5805e9fa-03b1986d-1ca25441-fd997915-1b342194,61.0,Male,Black,Is the defibrillator in standard position?,Spatial relations,Yes,Yes,yes,True
+5805e9fa-03b1986d-1ca25441-fd997915-1b342194,61.0,Male,Black,Is the defibrillator in standard position?,Spatial relations,Yes,Yes,yes,False
+15f53ba0-62c3727c-6b6c0eb6-feb1368c-c3903050,71.0,Male,Black,Is the aorta tortuous?,Spatial relations,Yes,Yes,yes,True
+15f53ba0-62c3727c-6b6c0eb6-feb1368c-c3903050,71.0,Male,Black,Is the aorta tortuous?,Spatial relations,Yes,Yes,yes,False
+ac45c11c-43a71c3f-61c927df-59ca7bc2-9eeac623,51.0,Female,Black,Is there a specific spatial relation mentioned for the pleural surfaces?,Spatial relations,Yes,Yes,no,True
+ac45c11c-43a71c3f-61c927df-59ca7bc2-9eeac623,51.0,Female,Black,Is there a specific spatial relation mentioned for the pleural surfaces?,Spatial relations,Yes,Yes,no,False
+501fc861-63c8e28e-00b286e1-f9f4b85e-465159fb,84.0,Male,White,Are the bibasilar opacities right greater than left?,Spatial relations,Yes,Yes,yes,True
+501fc861-63c8e28e-00b286e1-f9f4b85e-465159fb,84.0,Male,White,Are the bibasilar opacities right greater than left?,Spatial relations,Yes,Yes,yes,False
+badee0fd-e1182e11-74233aae-5b3356b2-daf6781a,65.0,Male,White,Is there a pleural effusion?,Existence,Yes,Yes,no,True
+badee0fd-e1182e11-74233aae-5b3356b2-daf6781a,65.0,Male,White,Is there a pleural effusion?,Existence,Yes,Yes,no,False
+906e8420-dd04a713-7e63148d-624fb701-ccbd0e0c,65.0,Male,White,Is there a pleural effusion?,Existence,Yes,Yes,yes,True
+906e8420-dd04a713-7e63148d-624fb701-ccbd0e0c,65.0,Male,White,Is there a pleural effusion?,Existence,Yes,Yes,no,False
+2eb10836-412f47ba-6f737915-b1d117f0-fdc61765,46.0,Male,White,Are trace pleural effusions detectable bilaterally?,Existence,Yes,Yes,yes,True
+2eb10836-412f47ba-6f737915-b1d117f0-fdc61765,46.0,Male,White,Are trace pleural effusions detectable bilaterally?,Existence,Yes,Yes,no,False
+81f25519-90aef32d-db733456-ff55c7f6-8fbb6148,69.0,Female,Black,Are there trace bilateral pleural effusions?,Existence,Yes,Yes,yes,True
+81f25519-90aef32d-db733456-ff55c7f6-8fbb6148,69.0,Female,Black,Are there trace bilateral pleural effusions?,Existence,Yes,Yes,no,False
+59a13cfe-3a85de20-ab156bf2-02f26fef-d0239f72,72.0,Male,White,Is the endotracheal tube tip located approximately 3 cm above the carina?,Spatial relations,Yes,Yes,yes,True
+59a13cfe-3a85de20-ab156bf2-02f26fef-d0239f72,72.0,Male,White,Is the endotracheal tube tip located approximately 3 cm above the carina?,Spatial relations,Yes,Yes,yes,False
+ed6ad55b-61d2bd0a-91d25342-f2e84db5-56d13055,81.0,Female,Black,Is the cardiac silhouette stable and unremarkable?,Spatial relations,Yes,Yes,yes,True
+ed6ad55b-61d2bd0a-91d25342-f2e84db5-56d13055,81.0,Female,Black,Is the cardiac silhouette stable and unremarkable?,Spatial relations,Yes,Yes,yes,False
+f4d4f303-b6c55da7-63085664-d70e15cf-56f41244,69.0,Male,Black,Is there a pleural effusion?,Existence,No,No,no,True
+f4d4f303-b6c55da7-63085664-d70e15cf-56f41244,69.0,Male,Black,Is there a pleural effusion?,Existence,No,No,no,False
+0657e169-8b13aa50-1bb4c54d-3256a266-6f1f54a2,64.0,Male,White,"Is there a pneumothorax, pleural effusion, or airspace consolidation?",Existence,No,No,no,True
+0657e169-8b13aa50-1bb4c54d-3256a266-6f1f54a2,64.0,Male,White,"Is there a pneumothorax, pleural effusion, or airspace consolidation?",Existence,No,No,no,False
+3a42f474-393f9112-0b4f91d1-a6024878-e62a6fe7,63.0,Male,White,Are the cardiac and mediastinal silhouettes stable?,Spatial relations,Yes,Yes,yes,True
+3a42f474-393f9112-0b4f91d1-a6024878-e62a6fe7,63.0,Male,White,Are the cardiac and mediastinal silhouettes stable?,Spatial relations,Yes,Yes,yes,False
+ca2072de-c2407195-52a28692-909abc3f-ffdd05dc,50.0,Male,White,Is the cardiac silhouette enlarged?,Spatial relations,Yes,Yes,yes,True
+ca2072de-c2407195-52a28692-909abc3f-ffdd05dc,50.0,Male,White,Is the cardiac silhouette enlarged?,Spatial relations,Yes,Yes,yes,False
+b8f77c87-b0ebc5be-9e716cf0-1e10d172-1c736009,47.0,Male,White,"Is there focal consolidation, effusion, or pneumothorax?",Existence,No,No,no,True
+b8f77c87-b0ebc5be-9e716cf0-1e10d172-1c736009,47.0,Male,White,"Is there focal consolidation, effusion, or pneumothorax?",Existence,No,No,no,False
+51cfdf3a-480427cb-0fc543bf-65453add-1b5b8bb9,83.0,Female,White,Is the cardiac size top normal?,Spatial relations,Yes,Yes,yes,True
+51cfdf3a-480427cb-0fc543bf-65453add-1b5b8bb9,83.0,Female,White,Is the cardiac size top normal?,Spatial relations,Yes,Yes,yes,False
+03f0037c-40ea769d-4cb9e3a2-2dee2f8e-19ef2ffe,67.0,Male,White,Is there a pneumothorax appreciated?,Existence,No,No,no,True
+03f0037c-40ea769d-4cb9e3a2-2dee2f8e-19ef2ffe,67.0,Male,White,Is there a pneumothorax appreciated?,Existence,No,No,no,False
+f5109057-bcb3d1de-d828f7b3-83ea4a7d-de5d0db9,71.0,Female,White,Does the Port-A-Cath tip terminate in the right atrium?,Spatial relations,Yes,Yes,yes,True
+f5109057-bcb3d1de-d828f7b3-83ea4a7d-de5d0db9,71.0,Female,White,Does the Port-A-Cath tip terminate in the right atrium?,Spatial relations,Yes,Yes,no,False
+9c3067d1-cd88ed32-fb56a7b2-6d09d3be-335f3d67,62.0,Female,White,Is the PICC line tip in the low SVC?,Spatial relations,Yes,Yes,yes,True
+9c3067d1-cd88ed32-fb56a7b2-6d09d3be-335f3d67,62.0,Female,White,Is the PICC line tip in the low SVC?,Spatial relations,Yes,Yes,yes,False
+de9ed91b-6c0f56c5-694a8fd9-aca927c5-e68868a9,91.0,Female,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,True
+de9ed91b-6c0f56c5-694a8fd9-aca927c5-e68868a9,91.0,Female,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,False
+83f69551-fa5fe6f6-cd2877f1-5354ce41-96388e9f,55.0,Male,Black,"Is there consolidation, pleural effusion, or pneumothorax?",Existence,No,No,no,True
+83f69551-fa5fe6f6-cd2877f1-5354ce41-96388e9f,55.0,Male,Black,"Is there consolidation, pleural effusion, or pneumothorax?",Existence,No,No,no,False
+de9cfdd0-b22e99e3-be9d0bd2-30e16a4c-0a331f5a,61.0,Male,White,Is there a pleural effusion?,Existence,No,No,no,True
+de9cfdd0-b22e99e3-be9d0bd2-30e16a4c-0a331f5a,61.0,Male,White,Is there a pleural effusion?,Existence,No,No,no,False
+41da8ac4-1d64310f-a7259f0f-2151396e-758b3f56,81.0,Female,White,Is there a radiopaque foreign body?,Existence,No,No,no,True
+41da8ac4-1d64310f-a7259f0f-2151396e-758b3f56,81.0,Female,White,Is there a radiopaque foreign body?,Existence,No,No,no,False
+9ce896a4-d3a2c384-5f3214f8-02f9c357-8cdfbd00,79.0,Female,White,Does the enteric tube terminate within the stomach?,Existence,Yes,Yes,yes,True
+9ce896a4-d3a2c384-5f3214f8-02f9c357-8cdfbd00,79.0,Female,White,Does the enteric tube terminate within the stomach?,Existence,Yes,Yes,yes,False
+44a6e459-d968ad0e-425e8b17-054c6c9b-9f116ef0,49.0,Male,White,Is the cardiomediastinal silhouette within normal limits?,Spatial relations,Yes,Yes,yes,True
+44a6e459-d968ad0e-425e8b17-054c6c9b-9f116ef0,49.0,Male,White,Is the cardiomediastinal silhouette within normal limits?,Spatial relations,Yes,Yes,yes,False
+e2e42688-4631a3ef-bd6ad843-c4955c6d-331b0c2b,90.0,Female,White,"Is there focal consolidation, effusion, or pneumothorax?",Existence,No,No,no,True
+e2e42688-4631a3ef-bd6ad843-c4955c6d-331b0c2b,90.0,Female,White,"Is there focal consolidation, effusion, or pneumothorax?",Existence,No,No,no,False
+46f30f13-7435bc75-53eab9d2-534bb34b-37f9b487,65.0,Male,White,Is there a large effusion?,Existence,No,No,no,True
+46f30f13-7435bc75-53eab9d2-534bb34b-37f9b487,65.0,Male,White,Is there a large effusion?,Existence,No,No,no,False
+4c36bc9b-f9eacbdb-199bf67c-12f0080b-41ad229e,58.0,Female,White,Is there a specific spatial relation mentioned for the findings?,Spatial relations,No,No,no,True
+4c36bc9b-f9eacbdb-199bf67c-12f0080b-41ad229e,58.0,Female,White,Is there a specific spatial relation mentioned for the findings?,Spatial relations,No,No,no,False
+78a15a03-9259bdbc-7d167d74-51b56fe0-d838afd0,67.0,Male,White,Is the high-grade compression deformity in the upper lumbar spine noted?,Spatial relations,Yes,Yes,yes,True
+78a15a03-9259bdbc-7d167d74-51b56fe0-d838afd0,67.0,Male,White,Is the high-grade compression deformity in the upper lumbar spine noted?,Spatial relations,Yes,Yes,yes,False
+a897935e-46e40f9f-41783f23-0b0913c7-21a5c620,83.0,Female,White,Is the cardiac defibrillator positioned in a specific location?,Spatial relations,Yes,Yes,yes,True
+a897935e-46e40f9f-41783f23-0b0913c7-21a5c620,83.0,Female,White,Is the cardiac defibrillator positioned in a specific location?,Spatial relations,Yes,Yes,yes,False
+fec89322-23517601-68c7748c-c850ce4f-1e9b9a59,62.0,Male,White,Is the cardiomediastinal silhouette within normal limits?,Spatial relations,Yes,Yes,yes,True
+fec89322-23517601-68c7748c-c850ce4f-1e9b9a59,62.0,Male,White,Is the cardiomediastinal silhouette within normal limits?,Spatial relations,Yes,Yes,yes,False
+041655d6-5c180dc1-27518bc9-1abc9df5-3f5379e6,69.0,Male,White,Is the masslike opacity at the left lung apex accentuated by differences in positioning?,Spatial relations,Yes,Yes,yes,True
+041655d6-5c180dc1-27518bc9-1abc9df5-3f5379e6,69.0,Male,White,Is the masslike opacity at the left lung apex accentuated by differences in positioning?,Spatial relations,Yes,Yes,yes,False
+857fb750-503ee444-52767f02-a53916f8-d8d41087,26.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+857fb750-503ee444-52767f02-a53916f8-d8d41087,26.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+5aea5877-40b40fee-5bccd163-ca1bf0ce-a95c213d,56.0,Male,White,"Is there focal consolidation, large effusion, or pneumothorax?",Existence,No,No,no,True
+5aea5877-40b40fee-5bccd163-ca1bf0ce-a95c213d,56.0,Male,White,"Is there focal consolidation, large effusion, or pneumothorax?",Existence,No,No,no,False
+e5431583-c65f4567-dc82c6ce-4a55cce0-10cc975e,66.0,Female,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+e5431583-c65f4567-dc82c6ce-4a55cce0-10cc975e,66.0,Female,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+0df65e2d-aa063776-c069c1d2-a90eac40-aa3e5324,83.0,Male,White,Is the right heart border obscured on the frontal view?,Spatial relations,Yes,Yes,yes,True
+0df65e2d-aa063776-c069c1d2-a90eac40-aa3e5324,83.0,Male,White,Is the right heart border obscured on the frontal view?,Spatial relations,Yes,Yes,yes,False
+e11ab8f1-44f30e78-5454cef1-2b6b8fd4-82036c08,83.0,Male,White,Is the heart size adequately assessed on this AP only view?,Spatial relations,No,No,no,True
+e11ab8f1-44f30e78-5454cef1-2b6b8fd4-82036c08,83.0,Male,White,Is the heart size adequately assessed on this AP only view?,Spatial relations,No,No,no,False
+811d43c6-2aae79d1-63147078-126add13-35a023dc,82.0,Female,White,Is the heart size assessable?,Spatial relations,No,No,no,True
+811d43c6-2aae79d1-63147078-126add13-35a023dc,82.0,Female,White,Is the heart size assessable?,Spatial relations,No,No,no,False
+169fa166-dd271e8f-3d0ab126-6db68e96-f7571d92,88.0,Female,White,Is there a pleural effusion?,Existence,No,No,no,True
+169fa166-dd271e8f-3d0ab126-6db68e96-f7571d92,88.0,Female,White,Is there a pleural effusion?,Existence,No,No,no,False
+10ae30cb-84e2834e-867cc18d-98e74eef-c148cc57,56.0,Male,White,Is there free air below the right hemidiaphragm?,Spatial relations,No,No,no,True
+10ae30cb-84e2834e-867cc18d-98e74eef-c148cc57,56.0,Male,White,Is there free air below the right hemidiaphragm?,Spatial relations,No,No,no,False
+eff2d032-8986c4ba-d7851087-3abc0357-2006b3be,70.0,Male,White,Is there any new parenchymal opacity noted?,Existence,No,No,no,True
+eff2d032-8986c4ba-d7851087-3abc0357-2006b3be,70.0,Male,White,Is there any new parenchymal opacity noted?,Existence,No,No,no,False
+bc8089f1-2c9aa72d-fd13d269-f6ad19fc-c876a03e,83.0,Male,White,Is the hazy opacity projecting posteriorly on the lateral view?,Spatial relations,Yes,Yes,yes,True
+bc8089f1-2c9aa72d-fd13d269-f6ad19fc-c876a03e,83.0,Male,White,Is the hazy opacity projecting posteriorly on the lateral view?,Spatial relations,Yes,Yes,yes,False
+afa7b0ef-ab36331f-40216eed-b9cb4a50-b937d72b,56.0,Male,Black,Is the cardiac silhouette top-normal?,Spatial relations,Yes,Yes,yes,True
+afa7b0ef-ab36331f-40216eed-b9cb4a50-b937d72b,56.0,Male,Black,Is the cardiac silhouette top-normal?,Spatial relations,Yes,Yes,yes,False
+c47c8f1a-cb31b8c6-ad21b95b-5d088297-16e31f08,82.0,Female,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,True
+c47c8f1a-cb31b8c6-ad21b95b-5d088297-16e31f08,82.0,Female,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,False
+a1441549-f6a35eae-0a482947-d87a5ae8-54bee47b,32.0,Male,White,"Is there a focal consolidation, effusion, or edema?",Existence,No,No,no,True
+a1441549-f6a35eae-0a482947-d87a5ae8-54bee47b,32.0,Male,White,"Is there a focal consolidation, effusion, or edema?",Existence,No,No,no,False
+96fcebda-21cb1b8e-97d03677-34d51284-fc0823a6,29.0,Female,White,Does the right-sided central venous catheter terminate at the cavoatrial junction?,Spatial relations,Yes,Yes,yes,True
+96fcebda-21cb1b8e-97d03677-34d51284-fc0823a6,29.0,Female,White,Does the right-sided central venous catheter terminate at the cavoatrial junction?,Spatial relations,Yes,Yes,no,False
+770d9711-bfbe07c1-5b8dffb3-19d9eed1-31aa81b5,63.0,Male,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,True
+770d9711-bfbe07c1-5b8dffb3-19d9eed1-31aa81b5,63.0,Male,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,False
+886cb118-050e3ea6-3c42a696-205c06d6-0ea72c7d,71.0,Male,White,Are the midline sternotomy wires unchanged?,Spatial relations,Yes,Yes,yes,True
+886cb118-050e3ea6-3c42a696-205c06d6-0ea72c7d,71.0,Male,White,Are the midline sternotomy wires unchanged?,Spatial relations,Yes,Yes,yes,False
+44ed8289-9a2d6ea1-94cf4928-b19ac845-aaba4900,60.0,Male,Black,Is the stent in the right bronchus intermedius?,Spatial relations,Yes,Yes,yes,True
+44ed8289-9a2d6ea1-94cf4928-b19ac845-aaba4900,60.0,Male,Black,Is the stent in the right bronchus intermedius?,Spatial relations,Yes,Yes,yes,False
+42c156a9-667862c9-3453a3fa-8370f704-6572e8f5,55.0,Male,White,Is there a trace right pleural effusion?,Existence,Yes,Yes,yes,True
+42c156a9-667862c9-3453a3fa-8370f704-6572e8f5,55.0,Male,White,Is there a trace right pleural effusion?,Existence,Yes,Yes,yes,False
+63c3c2d8-d811de10-e4530c50-8e7ca145-2327787d,59.0,Male,Black,Are the cardiac and mediastinal contours unremarkable?,Spatial relations,Yes,Yes,yes,True
+63c3c2d8-d811de10-e4530c50-8e7ca145-2327787d,59.0,Male,Black,Are the cardiac and mediastinal contours unremarkable?,Spatial relations,Yes,Yes,yes,False
+b195382c-3847761b-1c508639-c67fd7f4-7b732646,71.0,Male,White,Is the enteric tube traversing below the diaphragm?,Spatial relations,Yes,Yes,yes,True
+b195382c-3847761b-1c508639-c67fd7f4-7b732646,71.0,Male,White,Is the enteric tube traversing below the diaphragm?,Spatial relations,Yes,Yes,yes,False
+8b4c9e9d-2ae554ed-9b6e79b7-3ad9a10a-154113d6,65.0,Male,White,Is the nodular density at the intersection of the first anterior rib and clavicle?,Spatial relations,Yes,Yes,yes,True
+8b4c9e9d-2ae554ed-9b6e79b7-3ad9a10a-154113d6,65.0,Male,White,Is the nodular density at the intersection of the first anterior rib and clavicle?,Spatial relations,Yes,Yes,no,False
+36e3b535-51436ef9-9a3d9246-3fe89d20-79e0a478,86.0,Male,White,Does the lead of the right chest wall generator terminate in a stable position?,Spatial relations,Yes,Yes,yes,True
+36e3b535-51436ef9-9a3d9246-3fe89d20-79e0a478,86.0,Male,White,Does the lead of the right chest wall generator terminate in a stable position?,Spatial relations,Yes,Yes,yes,False
+e3010dd9-940e61db-03de735a-eabc16e2-1fe499b8,59.0,Male,White,Is there a small right pleural effusion?,Existence,Yes,Yes,yes,True
+e3010dd9-940e61db-03de735a-eabc16e2-1fe499b8,59.0,Male,White,Is there a small right pleural effusion?,Existence,Yes,Yes,yes,False
+f7de77a0-60a383bc-22422a68-5209e43c-7d8a4074,81.0,Male,White,Is there a large pleural effusion or pneumothorax?,Existence,No,No,no,True
+f7de77a0-60a383bc-22422a68-5209e43c-7d8a4074,81.0,Male,White,Is there a large pleural effusion or pneumothorax?,Existence,No,No,no,False
+d67029c7-4865e71e-055ce7b8-d241abec-6487acf6,67.0,Male,White,Is there a pleural effusion?,Existence,No,No,no,True
+d67029c7-4865e71e-055ce7b8-d241abec-6487acf6,67.0,Male,White,Is there a pleural effusion?,Existence,No,No,no,False
+2c0288cc-f7afb6c8-fc68da15-eedec6a5-3511e75a,69.0,Male,White,"Is there a pleural effusion, pneumothorax, or focal airspace consolidation worrisome for pneumonia?",Existence,No,No,no,True
+2c0288cc-f7afb6c8-fc68da15-eedec6a5-3511e75a,69.0,Male,White,"Is there a pleural effusion, pneumothorax, or focal airspace consolidation worrisome for pneumonia?",Existence,No,No,no,False
+246905b3-0693395c-d1d2d3b9-45be0994-59886997,86.0,Female,Black,Is the large paraesophageal hiatal hernia present?,Spatial relations,Yes,Yes,yes,True
+246905b3-0693395c-d1d2d3b9-45be0994-59886997,86.0,Female,Black,Is the large paraesophageal hiatal hernia present?,Spatial relations,Yes,Yes,yes,False
+69bfd378-949ade6d-0039ece8-893c2ad5-2ab41ba2,89.0,Male,White,Is there a retrocardiac air-fluid level?,Spatial relations,Yes,Yes,yes,True
+69bfd378-949ade6d-0039ece8-893c2ad5-2ab41ba2,89.0,Male,White,Is there a retrocardiac air-fluid level?,Spatial relations,Yes,Yes,no,False
+086c1188-507686f6-41d4fa3f-67272121-044e098b,56.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+086c1188-507686f6-41d4fa3f-67272121-044e098b,56.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+18af3816-19ef2289-6f982569-c1e34079-8081d87c,46.0,Male,Black,Are the left thoracostomy tubes unchanged in position?,Spatial relations,Yes,Yes,yes,True
+18af3816-19ef2289-6f982569-c1e34079-8081d87c,46.0,Male,Black,Are the left thoracostomy tubes unchanged in position?,Spatial relations,Yes,Yes,yes,False
+a334be0f-6bcaa303-6bbad8c0-4b669265-040e853e,40.0,Male,Black,Is the right hemidiaphragm elevated?,Spatial relations,Yes,Yes,yes,True
+a334be0f-6bcaa303-6bbad8c0-4b669265-040e853e,40.0,Male,Black,Is the right hemidiaphragm elevated?,Spatial relations,Yes,Yes,yes,False
+045856cf-8ce242d1-b7f98f35-2e0079dc-2b969618,91.0,Female,White,Is the pacer in the left anterior chest?,Spatial relations,Yes,Yes,yes,True
+045856cf-8ce242d1-b7f98f35-2e0079dc-2b969618,91.0,Female,White,Is the pacer in the left anterior chest?,Spatial relations,Yes,Yes,yes,False
+bf761960-58fa8386-9a163a9d-add1430e-1f9f0fba,44.0,Male,White,Is the ET tube 3.7 cm above the carina?,Spatial relations,Yes,Yes,yes,True
+bf761960-58fa8386-9a163a9d-add1430e-1f9f0fba,44.0,Male,White,Is the ET tube 3.7 cm above the carina?,Spatial relations,Yes,Yes,yes,False
+574a4b78-10dd1e4f-f4cf79e8-572da172-a7fc54c5,73.0,Male,White,Is there a pneumothorax?,Existence,No,No,no,True
+574a4b78-10dd1e4f-f4cf79e8-572da172-a7fc54c5,73.0,Male,White,Is there a pneumothorax?,Existence,No,No,no,False
+8c996aa7-6aa4ebe6-476a3ca2-262db38b-9a4f4baf,70.0,Male,White,Is there a new small area of left basilar infiltrate or atelectasis?,Existence,Yes,Yes,yes,True
+8c996aa7-6aa4ebe6-476a3ca2-262db38b-9a4f4baf,70.0,Male,White,Is there a new small area of left basilar infiltrate or atelectasis?,Existence,Yes,Yes,yes,False
+5fa2c038-62e4cb8b-33938fa6-b05074b7-74e4d595,77.0,Female,White,Is the pulmonary artery more prominent compared to the most recent prior study?,Spatial relations,Yes,Yes,yes,True
+5fa2c038-62e4cb8b-33938fa6-b05074b7-74e4d595,77.0,Female,White,Is the pulmonary artery more prominent compared to the most recent prior study?,Spatial relations,Yes,Yes,yes,False
+2167574a-cce35d1c-0047fb52-4a5bc38d-5e221be5,27.0,Male,White,Is there a pleural effusion?,Existence,No,No,no,True
+2167574a-cce35d1c-0047fb52-4a5bc38d-5e221be5,27.0,Male,White,Is there a pleural effusion?,Existence,No,No,no,False
+41aec088-98e52bb5-e5b171d3-a4aa6c9d-61344cdc,62.0,Female,White,"Is there focal consolidation, effusion, or pneumothorax?",Existence,No,No,no,True
+41aec088-98e52bb5-e5b171d3-a4aa6c9d-61344cdc,62.0,Female,White,"Is there focal consolidation, effusion, or pneumothorax?",Existence,No,No,no,False
+3c82c5ee-b180730f-fe10db74-74bf1a86-e2613642,72.0,Male,White,Is there a pneumothorax seen?,Existence,No,No,no,True
+3c82c5ee-b180730f-fe10db74-74bf1a86-e2613642,72.0,Male,White,Is there a pneumothorax seen?,Existence,No,No,no,False
+61ef50cb-59f57bbc-79cc1193-3de5ea1e-f93ed387,76.0,Male,Asian,Is the left-sided chest tube terminating in the left mid hemithorax?,Spatial relations,Yes,Yes,yes,True
+61ef50cb-59f57bbc-79cc1193-3de5ea1e-f93ed387,76.0,Male,Asian,Is the left-sided chest tube terminating in the left mid hemithorax?,Spatial relations,Yes,Yes,yes,False
+54955866-3b8fba88-d14b7617-71ee03da-3f6a58f2,57.0,Female,White,Is the ET tube tip above the carina?,Spatial relations,Yes,Yes,yes,True
+54955866-3b8fba88-d14b7617-71ee03da-3f6a58f2,57.0,Female,White,Is the ET tube tip above the carina?,Spatial relations,Yes,Yes,yes,False
+1947cbd1-1f0d81c1-fc274974-e10884b3-0a87b4c1,53.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+1947cbd1-1f0d81c1-fc274974-e10884b3-0a87b4c1,53.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+f46087e0-5bb6969f-82e56ac7-0dfde1da-634630b1,52.0,Male,Black,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,True
+f46087e0-5bb6969f-82e56ac7-0dfde1da-634630b1,52.0,Male,Black,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,False
+daa2d8ec-c72f6d6d-a74a7733-100bf51c-09c482f2,83.0,Male,White,Is the subtle opacity in the right infrahilar region?,Spatial relations,Yes,Yes,yes,True
+daa2d8ec-c72f6d6d-a74a7733-100bf51c-09c482f2,83.0,Male,White,Is the subtle opacity in the right infrahilar region?,Spatial relations,Yes,Yes,yes,False
+ea7d58a5-f16934c9-19d0c626-2cf84bfe-212b77aa,57.0,Female,White,Is there an endotracheal tube present?,Existence,Yes,Yes,yes,True
+ea7d58a5-f16934c9-19d0c626-2cf84bfe-212b77aa,57.0,Female,White,Is there an endotracheal tube present?,Existence,Yes,Yes,yes,False
+fc015900-e7c3e440-261b9f4a-392e29ef-d7a87bc7,54.0,Male,White,Is the right humeral head anchor noted?,Spatial relations,Yes,Yes,yes,True
+fc015900-e7c3e440-261b9f4a-392e29ef-d7a87bc7,54.0,Male,White,Is the right humeral head anchor noted?,Spatial relations,Yes,Yes,no,False
+3b57306d-5ca71060-312c8a92-f2808209-dab11198,52.0,Female,Black,Is the left upper lobe pleural thickening better demonstrated on the prior CT?,Spatial relations,Yes,Yes,yes,True
+3b57306d-5ca71060-312c8a92-f2808209-dab11198,52.0,Female,Black,Is the left upper lobe pleural thickening better demonstrated on the prior CT?,Spatial relations,Yes,Yes,yes,False
+976a394b-9880f7f0-96ea1fc6-f0e5cc78-c86c6b27,66.0,Male,White,Is there a pleural effusion or pneumothorax demonstrated?,Existence,No,No,no,True
+976a394b-9880f7f0-96ea1fc6-f0e5cc78-c86c6b27,66.0,Male,White,Is there a pleural effusion or pneumothorax demonstrated?,Existence,No,No,no,False
+e375f54e-e5d1fb4c-0d0dce86-21ed3cc1-4c5a5172,75.0,Male,White,Does the right jugular line end near the cavoatrial junction?,Spatial relations,Yes,Yes,yes,True
+e375f54e-e5d1fb4c-0d0dce86-21ed3cc1-4c5a5172,75.0,Male,White,Does the right jugular line end near the cavoatrial junction?,Spatial relations,Yes,Yes,no,False
+755e5367-e7fa6593-563c124b-0fdb81cb-cc733b38,66.0,Female,Black,Is there any information about the spatial relations of the heart and mediastinal contours?,Spatial relations,No,No,yes,True
+755e5367-e7fa6593-563c124b-0fdb81cb-cc733b38,66.0,Female,Black,Is there any information about the spatial relations of the heart and mediastinal contours?,Spatial relations,No,No,yes,False
+828d54b7-db743bd4-1da06367-bb9a7879-289ca131,69.0,Female,White,Is the prosthetic aortic valve re-demonstrated?,Spatial relations,Yes,Yes,yes,True
+828d54b7-db743bd4-1da06367-bb9a7879-289ca131,69.0,Female,White,Is the prosthetic aortic valve re-demonstrated?,Spatial relations,Yes,Yes,yes,False
+d2f16d86-425c806e-26e33bc9-626ca404-6f3d45c5,63.0,Female,Black,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,True
+d2f16d86-425c806e-26e33bc9-626ca404-6f3d45c5,63.0,Female,Black,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,False
+609c7099-e2df5665-72d99f8a-f5766092-f906eba4,51.0,Male,White,Is there a pleural effusion?,Existence,No,No,no,True
+609c7099-e2df5665-72d99f8a-f5766092-f906eba4,51.0,Male,White,Is there a pleural effusion?,Existence,No,No,no,False
+b1563920-ec9ffc0d-9846d03c-f7343cb9-4965084d,68.0,Female,White,Is there a visualized pneumothorax?,Existence,No,No,no,True
+b1563920-ec9ffc0d-9846d03c-f7343cb9-4965084d,68.0,Female,White,Is there a visualized pneumothorax?,Existence,No,No,no,False
+6a6f8776-440346a0-f241c0ab-cd268f17-596aa3f2,51.0,Male,White,"Is there focal consolidation, pleural effusion, or pneumothorax?",Existence,No,No,no,True
+6a6f8776-440346a0-f241c0ab-cd268f17-596aa3f2,51.0,Male,White,"Is there focal consolidation, pleural effusion, or pneumothorax?",Existence,No,No,no,False
+61b45399-2bf4c88f-5ee36a46-4618306e-9c393695,63.0,Female,White,Is there free air below the right hemidiaphragm?,Spatial relations,No,No,no,True
+61b45399-2bf4c88f-5ee36a46-4618306e-9c393695,63.0,Female,White,Is there free air below the right hemidiaphragm?,Spatial relations,No,No,no,False
+74538a31-cb733388-656f4f32-d5c5a571-959cc764,75.0,Male,White,Is there a significant interval change in bilateral pleural effusions?,Existence,No,No,no,True
+74538a31-cb733388-656f4f32-d5c5a571-959cc764,75.0,Male,White,Is there a significant interval change in bilateral pleural effusions?,Existence,No,No,no,False
+be58dacc-1dd90320-636fe8d7-a05f6114-e1850dd1,57.0,Female,White,Is there a pneumothorax identified?,Existence,No,No,no,True
+be58dacc-1dd90320-636fe8d7-a05f6114-e1850dd1,57.0,Female,White,Is there a pneumothorax identified?,Existence,No,No,no,False
+ffe629a8-c899d270-0143ac59-5df04404-39bfe6f8,94.0,Male,White,Is the lead of the pacer device extending into the region of the right ventricle?,Spatial relations,Yes,Yes,yes,True
+ffe629a8-c899d270-0143ac59-5df04404-39bfe6f8,94.0,Male,White,Is the lead of the pacer device extending into the region of the right ventricle?,Spatial relations,Yes,Yes,yes,False
+83f47261-43ee6870-6174b548-d689c831-b775b2c4,51.0,Male,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+83f47261-43ee6870-6174b548-d689c831-b775b2c4,51.0,Male,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+12244087-47b7b60e-8e85f540-3a6d162d-1e5c1ca6,82.0,Female,White,Are there surgical clips noted in the upper abdomen?,Spatial relations,Yes,Yes,yes,True
+12244087-47b7b60e-8e85f540-3a6d162d-1e5c1ca6,82.0,Female,White,Are there surgical clips noted in the upper abdomen?,Spatial relations,Yes,Yes,no,False
+869b96fe-9c9f8122-b80c3880-113c2e64-eeb35fd5,81.0,Female,White,Is the obscuration of the left hemidiaphragm due to epipericardial fat?,Spatial relations,Yes,Yes,yes,True
+869b96fe-9c9f8122-b80c3880-113c2e64-eeb35fd5,81.0,Female,White,Is the obscuration of the left hemidiaphragm due to epipericardial fat?,Spatial relations,Yes,Yes,yes,False
+ab27c49e-405b0992-9e537057-4e66551b-33fa3f60,30.0,Male,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+ab27c49e-405b0992-9e537057-4e66551b-33fa3f60,30.0,Male,Black,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+7363dfd7-68ff59bf-a00e1806-d4a3dc08-cdf90aa2,72.0,Male,Black,Is there a spatial relation mentioned regarding the heart size?,Spatial relations,No,No,no,True
+7363dfd7-68ff59bf-a00e1806-d4a3dc08-cdf90aa2,72.0,Male,Black,Is there a spatial relation mentioned regarding the heart size?,Spatial relations,No,No,no,False
+ae569408-62843b41-302c9584-b1d2c34f-641a2a38,44.0,Male,Black,Is there pleural effusion or pneumothorax?,Existence,No,No,no,True
+ae569408-62843b41-302c9584-b1d2c34f-641a2a38,44.0,Male,Black,Is there pleural effusion or pneumothorax?,Existence,No,No,no,False
+a9877166-f6b9604e-525e8be0-701851fe-e7cbdce8,67.0,Female,White,Is there free air beneath the right hemidiaphragm?,Spatial relations,No,No,no,True
+a9877166-f6b9604e-525e8be0-701851fe-e7cbdce8,67.0,Female,White,Is there free air beneath the right hemidiaphragm?,Spatial relations,No,No,no,False
+f68370e2-e5595826-d0228996-12d0ee08-b2fb8c8c,68.0,Male,Black,Is the endotracheal tube in the appropriate position?,Spatial relations,Yes,Yes,yes,True
+f68370e2-e5595826-d0228996-12d0ee08-b2fb8c8c,68.0,Male,Black,Is the endotracheal tube in the appropriate position?,Spatial relations,Yes,Yes,no,False
+6bfd0228-b74b94df-d91b23a6-63600010-9b4ca1c7,50.0,Female,White,Are there small pleural effusions?,Existence,Yes,Yes,yes,True
+6bfd0228-b74b94df-d91b23a6-63600010-9b4ca1c7,50.0,Female,White,Are there small pleural effusions?,Existence,Yes,Yes,no,False
+0e147072-cb101deb-b6c11e7f-1393c2e6-935286d2,60.0,Female,White,Is there a pneumothorax?,Existence,Yes,Yes,yes,True
+0e147072-cb101deb-b6c11e7f-1393c2e6-935286d2,60.0,Female,White,Is there a pneumothorax?,Existence,Yes,Yes,yes,False
+0dd8d918-98860c3f-2dc52928-a24ffd9d-e9a58765,92.0,Male,White,Is there a pneumothorax?,Existence,No,No,no,True
+0dd8d918-98860c3f-2dc52928-a24ffd9d-e9a58765,92.0,Male,White,Is there a pneumothorax?,Existence,No,No,no,False
+168bdd84-2b87b090-a773942a-5b664ec1-dc3637a2,72.0,Female,White,"Do the leads of the biventricular pacer terminate in the right atrial appendage, right ventricle, and coronary sinus?",Spatial relations,Yes,Yes,yes,True
+168bdd84-2b87b090-a773942a-5b664ec1-dc3637a2,72.0,Female,White,"Do the leads of the biventricular pacer terminate in the right atrial appendage, right ventricle, and coronary sinus?",Spatial relations,Yes,Yes,yes,False
+28e4376e-045edb59-84977ca1-d0deb357-1d35d4b9,69.0,Female,White,Is there a pleural effusion?,Existence,Yes,Yes,yes,True
+28e4376e-045edb59-84977ca1-d0deb357-1d35d4b9,69.0,Female,White,Is there a pleural effusion?,Existence,Yes,Yes,yes,False
+43fc7a11-d9831eaf-2ff81247-bb571c39-7865496c,81.0,Female,White,Is the right costophrenic angle included in the field of view?,Spatial relations,No,No,no,True
+43fc7a11-d9831eaf-2ff81247-bb571c39-7865496c,81.0,Female,White,Is the right costophrenic angle included in the field of view?,Spatial relations,No,No,no,False
+7631cb0a-5d0c059b-831c5c04-4b4475c3-65ff0cef,26.0,Male,White,Is the moderate anterior wedging of the thoracic vertebral body evident on chest CT?,Spatial relations,No,No,no,True
+7631cb0a-5d0c059b-831c5c04-4b4475c3-65ff0cef,26.0,Male,White,Is the moderate anterior wedging of the thoracic vertebral body evident on chest CT?,Spatial relations,No,No,no,False
+12385461-36df5979-f493ad8c-3d98172b-0b995fda,44.0,Male,White,Is there an effusion or pneumothorax?,Existence,No,No,no,True
+12385461-36df5979-f493ad8c-3d98172b-0b995fda,44.0,Male,White,Is there an effusion or pneumothorax?,Existence,No,No,no,False
+cb027407-9c891030-63bb30a2-a9c4ee90-6cfc8642,78.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+cb027407-9c891030-63bb30a2-a9c4ee90-6cfc8642,78.0,Female,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+b672e81c-4495ce05-fe34479a-d3e6ec2a-11ff5680,54.0,Female,Black,Is the retrocardiac opacity concerning for pneumonia?,Spatial relations,Yes,Yes,yes,True
+b672e81c-4495ce05-fe34479a-d3e6ec2a-11ff5680,54.0,Female,Black,Is the retrocardiac opacity concerning for pneumonia?,Spatial relations,Yes,Yes,yes,False
+a749b457-b274fb33-7b0bb0c9-83699d7c-0aaee583,83.0,Female,White,Is the fiducial marker within the left upper lobe?,Spatial relations,Yes,Yes,yes,True
+a749b457-b274fb33-7b0bb0c9-83699d7c-0aaee583,83.0,Female,White,Is the fiducial marker within the left upper lobe?,Spatial relations,Yes,Yes,yes,False
+0947bab1-b760c0c8-42a1b0fb-9d3ca9ea-c4568c5d,44.0,Male,White,Is the VP shunt projecting over the central mediastinum?,Spatial relations,Yes,Yes,yes,True
+0947bab1-b760c0c8-42a1b0fb-9d3ca9ea-c4568c5d,44.0,Male,White,Is the VP shunt projecting over the central mediastinum?,Spatial relations,Yes,Yes,yes,False
+84f2d6dc-cf42d187-ca3ea997-dc463265-e4bd1d9b,57.0,Male,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,True
+84f2d6dc-cf42d187-ca3ea997-dc463265-e4bd1d9b,57.0,Male,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,False
+bef57d6f-5f5672cb-d9386af3-6dfcb427-5daced5f,81.0,Male,White,Is there a definite pleural effusion or pneumothorax?,Existence,No,No,no,True
+bef57d6f-5f5672cb-d9386af3-6dfcb427-5daced5f,81.0,Male,White,Is there a definite pleural effusion or pneumothorax?,Existence,No,No,no,False
+9b1e3175-d69b82ea-3fe75dff-b17f0ccd-1544af36,74.0,Male,White,Is the catheter tip at the RA SVC junction?,Spatial relations,Yes,Yes,yes,True
+9b1e3175-d69b82ea-3fe75dff-b17f0ccd-1544af36,74.0,Male,White,Is the catheter tip at the RA SVC junction?,Spatial relations,Yes,Yes,no,False
+46d95e55-7ce9f6a5-404d2eb6-412c4251-4ac3c8db,83.0,Male,White,Is there a large effusion?,Existence,No,No,no,True
+46d95e55-7ce9f6a5-404d2eb6-412c4251-4ac3c8db,83.0,Male,White,Is there a large effusion?,Existence,No,No,no,False
+5efb7453-fa3a139e-1144cd8d-b491e71b-464c6242,28.0,Female,White,Are there bilateral pleural effusions?,Existence,Yes,Yes,yes,True
+5efb7453-fa3a139e-1144cd8d-b491e71b-464c6242,28.0,Female,White,Are there bilateral pleural effusions?,Existence,Yes,Yes,no,False
+938b865a-a463c158-118c9771-d23297bf-e38b5e53,58.0,Male,White,Does the double-lumen right internal jugular central venous line terminate within the right atrium?,Spatial relations,Yes,Yes,yes,True
+938b865a-a463c158-118c9771-d23297bf-e38b5e53,58.0,Male,White,Does the double-lumen right internal jugular central venous line terminate within the right atrium?,Spatial relations,Yes,Yes,no,False
+f4f32637-d463c9da-4d1014aa-09a6f6ab-398b5681,58.0,Female,White,Is there evidence of pneumothorax or pleural effusion?,Existence,No,No,no,True
+f4f32637-d463c9da-4d1014aa-09a6f6ab-398b5681,58.0,Female,White,Is there evidence of pneumothorax or pleural effusion?,Existence,No,No,no,False
+a038bc6e-0e447b92-5fb369dc-f73a31ce-e84647f0,86.0,Male,White,Is there a pneumothorax?,Existence,No,No,no,True
+a038bc6e-0e447b92-5fb369dc-f73a31ce-e84647f0,86.0,Male,White,Is there a pneumothorax?,Existence,No,No,no,False
+0633ee77-16374cde-1f0a76c9-e450e887-cb7a748b,79.0,Female,White,Is there a pleural effusion?,Existence,No,No,yes,True
+0633ee77-16374cde-1f0a76c9-e450e887-cb7a748b,79.0,Female,White,Is there a pleural effusion?,Existence,No,No,yes,False
+6c7de3b9-1f8e141e-a7eda19e-4fe45395-0c6dd847,54.0,Female,White,Is there an azygos lobe and fissure?,Spatial relations,Yes,Yes,yes,True
+6c7de3b9-1f8e141e-a7eda19e-4fe45395-0c6dd847,54.0,Female,White,Is there an azygos lobe and fissure?,Spatial relations,Yes,Yes,yes,False
+0be1d58b-bf297d96-ddcde270-d56227a7-c62c0b68,69.0,Male,White,Is there a large effusion or pneumothorax?,Existence,No,No,no,True
+0be1d58b-bf297d96-ddcde270-d56227a7-c62c0b68,69.0,Male,White,Is there a large effusion or pneumothorax?,Existence,No,No,no,False
+f4b474b7-0fb49204-e2c9465d-16f1cbbe-a472a698,47.0,Female,Black,Is there a possibility of small effusions?,Existence,Yes,Yes,yes,True
+f4b474b7-0fb49204-e2c9465d-16f1cbbe-a472a698,47.0,Female,Black,Is there a possibility of small effusions?,Existence,Yes,Yes,uncertain,False
+2263a089-eb9bbc51-1287de7f-f57a10c2-d1dad10d,68.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+2263a089-eb9bbc51-1287de7f-f57a10c2-d1dad10d,68.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+61ceefdd-d5f63637-b1968891-18f5b67c-24ef5e3c,69.0,Female,Black,Is there free air under the diaphragm?,Existence,No,No,no,True
+61ceefdd-d5f63637-b1968891-18f5b67c-24ef5e3c,69.0,Female,Black,Is there free air under the diaphragm?,Existence,No,No,no,False
+4f552f4e-2d20c3b6-3f9e2dc9-a92b7d50-da984ddb,85.0,Female,Black,"Is the cardiac, mediastinal and hilar contours within normal limits?",Spatial relations,Yes,Yes,yes,True
+4f552f4e-2d20c3b6-3f9e2dc9-a92b7d50-da984ddb,85.0,Female,Black,"Is the cardiac, mediastinal and hilar contours within normal limits?",Spatial relations,Yes,Yes,yes,False
+30ba7648-d6bcc1a6-deba2b7e-3e0e73d7-c10c02a4,69.0,Male,White,Is the right PICC line terminating at the upper SVC?,Spatial relations,Yes,Yes,yes,True
+30ba7648-d6bcc1a6-deba2b7e-3e0e73d7-c10c02a4,69.0,Male,White,Is the right PICC line terminating at the upper SVC?,Spatial relations,Yes,Yes,no,False
+10ebfffb-380a44c7-a4248d71-28301807-1b300964,54.0,Male,White,Is there a trace pleural effusion?,Existence,Yes,Yes,yes,True
+10ebfffb-380a44c7-a4248d71-28301807-1b300964,54.0,Male,White,Is there a trace pleural effusion?,Existence,Yes,Yes,yes,False
+3bf2cd43-a402e4ce-fbd27e6e-2e29c477-e256caa6,71.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+3bf2cd43-a402e4ce-fbd27e6e-2e29c477-e256caa6,71.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
+014c9c9d-12ea1bcf-532ace07-404e16d3-d7833c1b,76.0,Male,White,Is the feeding tube tip projecting over the distal stomach?,Spatial relations,Yes,Yes,yes,True
+014c9c9d-12ea1bcf-532ace07-404e16d3-d7833c1b,76.0,Male,White,Is the feeding tube tip projecting over the distal stomach?,Spatial relations,Yes,Yes,yes,False
+4dfb46ee-ba8a0508-cda39415-4f2d2db5-a9d1824b,64.0,Male,White,Is the mediastinal contour normal?,Spatial relations,Yes,Yes,yes,True
+4dfb46ee-ba8a0508-cda39415-4f2d2db5-a9d1824b,64.0,Male,White,Is the mediastinal contour normal?,Spatial relations,Yes,Yes,yes,False
+ce5cd120-4f52e836-4ff90ac4-699458c2-a34c53ad,75.0,Female,White,"Is there acute pneumonia, pleural effusion, or pneumothorax?",Existence,No,No,no,True
+ce5cd120-4f52e836-4ff90ac4-699458c2-a34c53ad,75.0,Female,White,"Is there acute pneumonia, pleural effusion, or pneumothorax?",Existence,No,No,no,False
+5168eef2-a0032f16-c2dba6f2-11255026-2a942cad,32.0,Male,White,Is the left PICC line tip in the low SVC?,Spatial relations,Yes,Yes,yes,True
+5168eef2-a0032f16-c2dba6f2-11255026-2a942cad,32.0,Male,White,Is the left PICC line tip in the low SVC?,Spatial relations,Yes,Yes,yes,False
+8a296719-42282083-534e198a-5ea7aba6-327a4a9d,33.0,Female,White,Are there large bilateral pleural effusions?,Existence,Yes,Yes,yes,True
+8a296719-42282083-534e198a-5ea7aba6-327a4a9d,33.0,Female,White,Are there large bilateral pleural effusions?,Existence,Yes,Yes,yes,False
+161b639c-da98276c-bf926ee8-8428d4f3-5e1441d6,96.0,Male,White,Is there a small right pleural effusion?,Existence,Yes,Yes,yes,True
+161b639c-da98276c-bf926ee8-8428d4f3-5e1441d6,96.0,Male,White,Is there a small right pleural effusion?,Existence,Yes,Yes,no,False
+117a6864-c19ee57a-ff31e818-d808c32a-9091cf5f,71.0,Female,Black,Is the aorta mildly unfolded with curvilinear aortic knuckle calcification?,Spatial relations,Yes,Yes,yes,True
+117a6864-c19ee57a-ff31e818-d808c32a-9091cf5f,71.0,Female,Black,Is the aorta mildly unfolded with curvilinear aortic knuckle calcification?,Spatial relations,Yes,Yes,yes,False
+991542cf-d2c81e61-45b8469d-562fc60e-ae64175f,69.0,Male,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,True
+991542cf-d2c81e61-45b8469d-562fc60e-ae64175f,69.0,Male,White,Is the PICC line tip at the cavo-atrial junction?,Spatial relations,No,No,no,False
+795fe2de-e8db74c6-1afd9eac-0dc0c787-cbd82c80,37.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,True
+795fe2de-e8db74c6-1afd9eac-0dc0c787-cbd82c80,37.0,Male,White,Is there a pleural effusion or pneumothorax?,Existence,No,No,no,False
