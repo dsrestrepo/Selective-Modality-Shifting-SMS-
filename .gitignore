@@ -72,6 +72,7 @@ Thumbs.db
 
 # Ignore csv files
 *.csv
+!results/*.csv
 
 # ----------------------------
 # Ignore notebooks and .py files in root,
