@@ -186,4 +186,3 @@ dependencies:
       - websockets==14.2
       - yarl==1.18.3
       - zopfli==0.2.3.post1
-prefix: /gpfs/users/restrepoda/.conda/envs/llava-med

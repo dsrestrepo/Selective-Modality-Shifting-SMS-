@@ -7,7 +7,7 @@ from IPython.display import display, Markdown
 import re
 
 # Load Datasets
-DATASETS_PATH = '/gpfs/workdir/restrepoda/datasets/'
+DATASETS_PATH = '/gpfs/workdir/xxx/datasets/'
 DATASETS = ['VLMed', 'mBRSET', 'BRSET', 'MIMIC', 'HAM10000']
 
 
