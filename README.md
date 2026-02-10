@@ -121,9 +121,42 @@ Qualitative attention visualizations can be found in the `attentions/` folder. T
 
 ## 📄 Citation
 
-If you use this codebase, please cite the paper (bibtex coming soon). You may reference it as:
+If you use this codebase or the paper, please cite the paper as:
 
-TODO: Add citation
+```markdown
+Restrepo, D., Ktena, I., Vakalopoulou, M., Christodoulidis, S., & Ferrante, E. (2026).  
+*On the Risk of Misleading Reports: Diagnosing Textual Biases in Multimodal Clinical AI.*  
+In Qiu, J., et al. *AI for Clinical Applications. Agentic AI CMLLMs CREATE 2025*.  
+LNCS 16147. Springer.  
+[https://doi.org/10.1007/978-3-032-06004-4_32](https://doi.org/10.1007/978-3-032-06004-4_32)
+```
+or 
+
+```markdown
+@InProceedings{10.1007/978-3-032-06004-4_32,
+author="Restrepo, David
+and Ktena, Ira
+and Vakalopoulou, Maria
+and Christodoulidis, Stergios
+and Ferrante, Enzo",
+editor="Qiu, Jianing
+and Wu, Jinlin
+and Langlotz, Curtis
+and Huang, Baoru
+and Lei, Zhen
+and Wu, Honghan
+and Liu, Hongbin
+and Xie, Weidi",
+title="On the Risk of Misleading Reports: Diagnosing Textual Biases in Multimodal Clinical AI",
+booktitle="AI for Clinical Applications",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="320--330",
+abstract="Clinical decision-making relies on the integrated analysis of medical images and the associated clinical reports. While Vision-Language Models (VLMs) can offer a unified framework for such tasks, they can exhibit strong biases toward one modality, frequently overlooking critical visual cues in favor of textual information. In this work, we introduce Selective Modality Shifting (SMS), a perturbation-based approach to quantify a model's reliance on each modality in binary classification tasks. By systematically swapping images or text between samples with opposing labels, we expose modality-specific biases. We assess six open-source VLMs--four generalist models and two fine-tuned for medical data-- on two medical imaging datasets with distinct modalities: MIMIC-CXR (chest X-ray) and FairVLMed (scanning laser ophthalmoscopy). By assessing model performance and the calibration of every model in both unperturbed and perturbed settings, we reveal a marked dependency on text input, which persists despite the presence of complementary visual information. We also perform a qualitative attention-based analysis which further confirms that image content is often overshadowed by text details. Our findings highlight the importance of designing and evaluating multimodal medical models that genuinely integrate visual and textual cues, rather than relying on single-modality signals.",
+isbn="978-3-032-06004-4"
+}
+```
 
 ---
 
